@@ -1,19 +1,19 @@
 {
 	"language": "en-GB",
 	"organization": {
-		"description": "We offer inspections for inflatables and outdoor playgrounds to the relevant standards to ensure play is as safe as it can possibly be.",
-		"legalName": "GSB Inflatables",
+		"description": "RPII-registered inflatable and playground inspector offering inspections to BS EN14960 and BS EN1176/1177 standards. Based in Chorley, Lancashire, serving the North West and nationwide.",
+		"legalName": "Play Safe Play Inspections",
 		"foundingDate": "",
 		"founders": [
 			{
-				"name": "Gary Bonehill"
+				"name": "Gary Spencer Bonehill"
 			}
 		],
 		"address": {
 			"streetAddress": "",
-			"addressLocality": "",
-			"addressRegion": "North West",
-			"postalCode": "",
+			"addressLocality": "Chorley",
+			"addressRegion": "Lancashire",
+			"postalCode": "PR7",
 			"addressCountry": "GB"
 		},
 		"contactPoint": [
