@@ -12,7 +12,7 @@ eleventyNavigation:
 
 1. **Routine visual** – daily or weekly checks by site staff
 2. **Operational** – more detailed checks at regular intervals (what this page covers)
-3. **Annual main inspection** – full inspection by an RPII-registered inspector
+3. **Annual main inspection** – full inspection by a qualified inspector
 
 Annual inspections are the minimum formal requirement. But for busy sites, or anywhere that sees vandalism, regular operational inspections between annual checks catch problems before they become serious.
 
