@@ -131,6 +131,7 @@ input[type="submit"] {
 .feature {
   border-top: 3px solid var(--color-accent);
   box-shadow: var(--box-shadow);
+  background: #fcfcfc;
   transition: box-shadow 0.3s ease, transform 0.3s ease;
 
   &:hover {
@@ -169,37 +170,9 @@ section {
 article,
 .card {
   box-shadow: var(--box-shadow);
+  background: #fcfcfc;
 }
 
-// Fix mobile card centering
-@media (max-width: 768px) {
-  body {
-    overflow-x: hidden;
-  }
-
-  // Reset all horizontal spacing to be symmetric
-  main > *,
-  section > *,
-  .wrapper > * {
-    padding-left: 1rem !important;
-    padding-right: 1rem !important;
-    box-sizing: border-box;
-  }
-
-  // Cards grid should be full width with equal padding
-  .grid {
-    padding-left: 0.5rem !important;
-    padding-right: 0.5rem !important;
-    width: 100% !important;
-    max-width: 100% !important;
-  }
-
-  .feature,
-  .card {
-    margin-left: 0.5rem !important;
-    margin-right: 0.5rem !important;
-  }
-}
 
 // Headings - Navy with orange underline
 h1, h2, h3, h4, h5, h6 {
