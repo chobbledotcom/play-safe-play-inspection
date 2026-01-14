@@ -132,9 +132,6 @@ input[type="submit"] {
   border-top: 3px solid var(--color-accent);
   box-shadow: var(--box-shadow);
   transition: box-shadow 0.3s ease, transform 0.3s ease;
-  background: rgba(255, 255, 255, 0.85);
-  backdrop-filter: blur(8px);
-  -webkit-backdrop-filter: blur(8px);
 
   &:hover {
     box-shadow: var(--box-shadow-lg);
@@ -148,14 +145,60 @@ section {
   z-index: 1;
 }
 
-// Content blocks with subtle glass effect
+// Subtle warm glow behind card sections
+.features,
+.grid {
+  position: relative;
+
+  &::before {
+    content: "";
+    position: absolute;
+    top: -1rem;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 90%;
+    height: calc(100% + 2rem);
+    background: radial-gradient(ellipse at center, rgba(237, 137, 54, 0.06) 0%, transparent 70%);
+    pointer-events: none;
+    z-index: -1;
+  }
+}
+
+// Content blocks with shadows
 .grid > div,
 article,
 .card {
   box-shadow: var(--box-shadow);
-  background: rgba(255, 255, 255, 0.7);
-  backdrop-filter: blur(6px);
-  -webkit-backdrop-filter: blur(6px);
+}
+
+// Fix mobile card centering
+@media (max-width: 768px) {
+  body {
+    overflow-x: hidden;
+  }
+
+  // Reset all horizontal spacing to be symmetric
+  main > *,
+  section > *,
+  .wrapper > * {
+    padding-left: 1rem !important;
+    padding-right: 1rem !important;
+    box-sizing: border-box;
+  }
+
+  // Cards grid should be full width with equal padding
+  .grid {
+    padding-left: 0.5rem !important;
+    padding-right: 0.5rem !important;
+    width: 100% !important;
+    max-width: 100% !important;
+  }
+
+  .feature,
+  .card {
+    margin-left: 0.5rem !important;
+    margin-right: 0.5rem !important;
+  }
 }
 
 // Headings - Navy with orange underline
