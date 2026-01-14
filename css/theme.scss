@@ -57,8 +57,10 @@ body {
   color: var(--color-text);
 }
 
-// Header styling - dark navy with orange accent
-header {
+// Site header styling - dark navy with orange accent
+// Use body > header to only target the main site header, not section headers
+body > header,
+.site-header {
   --color-text: #ffffff;
   --color-link: #ffffff;
   --color-link-hover: var(--color-accent-light);
@@ -271,26 +273,83 @@ select {
 
 // Design system overrides
 .design-system {
-  // Section spacing
-  padding: 3rem 0;
+  // Section spacing - more breathing room
+  padding: 3rem 1.5rem;
+  margin-bottom: 0.5rem;
 
-  &:nth-child(even) {
-    background: var(--color-bg-alt);
+  // Section headers - fix contrast issues
+  > header {
+    background: transparent !important;
+    border-bottom: none !important;
+    margin-bottom: 2rem;
+
+    h2 {
+      color: var(--color-primary-dark) !important;
+      background: none !important;
+      -webkit-background-clip: unset !important;
+      -webkit-text-fill-color: var(--color-primary-dark) !important;
+      background-clip: unset !important;
+    }
+
+    p,
+    .text-muted {
+      color: var(--color-text) !important;
+      opacity: 1 !important;
+    }
   }
 
   // Features grid enhancement
   .features {
+    gap: 1.5rem;
+    margin-top: 1.5rem;
+
     .feature {
       border-top: 3px solid var(--color-accent);
+      padding: 1.5rem;
+
+      h3 {
+        color: var(--color-primary-dark);
+        margin-top: 0.5rem;
+        margin-bottom: 0.5rem;
+      }
+
+      p {
+        color: var(--color-text);
+        line-height: 1.6;
+        margin: 0;
+      }
     }
   }
 
-  // Stats enhancement
+  // Stats enhancement - more spacing
   .stats {
-    .stat strong {
-      color: var(--color-accent);
+    gap: 2.5rem;
+    padding: 1.5rem 0;
+    margin-bottom: 1rem;
+
+    .stat {
+      padding: 0.5rem 1rem;
+
+      strong {
+        color: var(--color-accent);
+        font-size: 1.75rem;
+      }
+
+      span {
+        color: var(--color-text);
+        font-size: 0.875rem;
+      }
     }
   }
+}
+
+// Alternating section backgrounds
+.design-system:nth-child(odd) {
+  background: #ffffff;
+}
+
+.design-system:nth-child(even) {
+  background: var(--color-bg-alt);
 }
 
 // Utility classes for safety colors
