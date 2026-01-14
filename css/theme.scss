@@ -60,6 +60,13 @@ header {
   --color-link-hover: var(--color-accent-light);
   background: linear-gradient(135deg, var(--color-primary-dark) 0%, var(--color-primary) 100%);
   border-bottom: 4px solid var(--color-accent);
+
+  h1, h2, h3 {
+    color: #ffffff;
+    -webkit-text-fill-color: #ffffff;
+    background: none;
+    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+  }
 }
 
 // Navigation
