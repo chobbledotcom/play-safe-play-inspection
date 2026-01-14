@@ -1,14 +1,31 @@
 ---
 header_text: "Inflatable Inspection"
-meta_title: "Inflatable Inspection"
-meta_description: "RPII-registered inflatable inspector. Testing required once a year via PIPA scheme or in-house test certificate to BS EN14960."
+meta_title: "Inflatable Inspection | PIPA & RPII Registered | North West"
+meta_description: "Annual inflatable inspections to BS EN14960. PIPA scheme or in-house certification. RPII-registered inspector based in the North West."
 eleventyNavigation:
-  key: Inflatable Inspection
-  order: 2
+  key: Inflatables
+  order: 6
 ---
 
-The testing of inflatables is required once a year and we offer this via the PIPA scheme or our own in-house test and certificate. Both tests comply with the standard BS EN14960 and are recognised by the H.S.E and local councils.
+Alongside play area inspections, I'm also registered to inspect inflatables – bouncy castles, inflatable slides, obstacle courses, and similar equipment.
 
-Gary Spencer Bonehill is listed on the Register of Play Inspectors International (RPII) as a qualified Inflatable Annual Inspector.
+## Annual Testing
 
-We also provide a repair and/or modification service to any inflatable and can advise the best place to purchase additional or replacement equipment as we work closely with most manufacturers based in the North of England.
+Inflatables need testing once a year. I can do this through:
+
+- **PIPA scheme** – the industry standard, recognised by HSE and councils
+- **In-house test and certificate** – also compliant with BS EN14960
+
+Both are accepted by insurers and local authorities. I'm listed on the Register of Play Inspectors International (RPII) as a qualified Inflatable Annual Inspector.
+
+## What's Checked
+
+- Fabric condition and stitching
+- Anchor points
+- Blower attachments
+- Structural integrity when inflated
+- Step and slide surfaces
+
+## Who This Is For
+
+Hire companies, leisure centres, holiday parks, schools, and anyone else with inflatables that need their annual test. If you're in the North West, [get in touch](/contact/).
