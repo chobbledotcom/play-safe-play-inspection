@@ -1,13 +1,19 @@
 ---
 header_text: "Operational Inspections"
-meta_title: "Operational Playground Inspections | Monthly & Quarterly Checks | North West"
-meta_description: "Regular operational inspections for playgrounds between annual inspections. Monthly or quarterly checks to catch wear, vandalism, and damage early."
+meta_title: "Operational Playground Inspections | BS EN 1176-7 | North West"
+meta_description: "Operational inspections for playgrounds as recommended by BS EN 1176-7. Monthly or quarterly checks between annual inspections."
 eleventyNavigation:
   key: Operational Inspection
   order: 4
 ---
 
-Annual inspections are the minimum. For busy sites, or anywhere that sees vandalism, regular operational inspections between annual checks catch problems before they become serious.
+**BS EN 1176-7** sets out three levels of playground inspection:
+
+1. **Routine visual** – daily or weekly checks by site staff
+2. **Operational** – more detailed checks at regular intervals (what this page covers)
+3. **Annual main inspection** – full inspection by an RPII-registered inspector
+
+Annual inspections are the minimum formal requirement. But for busy sites, or anywhere that sees vandalism, regular operational inspections between annual checks catch problems before they become serious.
 
 ## How Often
 
@@ -16,7 +22,7 @@ Depends on the site:
 - **Monthly** – high-use sites, public parks, school playgrounds
 - **Quarterly** – lower-use sites, private facilities, housing estate play areas
 
-The more footfall and the more vandalism you get, the more often you should be checking.
+The more footfall and the more vandalism you get, the more often you should be checking. BS EN 1176-7 says you should set the frequency based on your own risk assessment for each site.
 
 ## What Gets Checked
 

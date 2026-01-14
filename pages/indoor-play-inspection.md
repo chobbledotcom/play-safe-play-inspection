@@ -1,7 +1,7 @@
 ---
 header_text: "Indoor Play Inspection"
-meta_title: "Indoor Play Area Inspection | Soft Play Centre Inspections | North West"
-meta_description: "RPII-registered inspector for indoor play areas, soft play centres, and play frames. Annual inspections and risk assessments to BS EN1176 standards."
+meta_title: "Indoor Play Area Inspection | BS EN 1176-10 | Soft Play Inspections North West"
+meta_description: "RPII-registered inspector for indoor play areas and soft play centres. Annual inspections to BS EN 1176-10 for fully enclosed play equipment."
 eleventyNavigation:
   key: Indoor Play
   order: 2
@@ -9,17 +9,28 @@ eleventyNavigation:
 
 I've been inspecting indoor play areas for about six years now. Started with Pontins holiday parks and local soft play centres, and it's grown from there.
 
+## BS EN 1176-10: Fully Enclosed Play Equipment
+
+Indoor soft play structures fall under **BS EN 1176-10** – the part of the standard covering fully enclosed play equipment. The 2023 revision sets out requirements for:
+
+- Access and escape routes
+- Visibility (can staff see children throughout the structure?)
+- Containment – walls, netting, barriers
+- Ignition resistance of materials
+- Impact-absorbing surfaces within the structure
+- Signage and age guidance
+
 ## What Gets Inspected
 
-Indoor play equipment falls under BS EN1176 standards, same as outdoor. I check:
+I check all of the above, plus the practical stuff that affects safety day-to-day:
 
 - Soft play structures and frames
 - Ball pits
 - Slides and tunnels
-- Padding and impact surfaces
-- Netting and barriers
+- Padding condition – splits, compression, exposed foam
+- Netting integrity – tears, loose fixings
 - Entry/exit points
-- Age-appropriate signage
+- Entrapment hazards – gaps where heads or limbs could get stuck
 
 ## Annual Inspections
 

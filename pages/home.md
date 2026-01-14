@@ -18,12 +18,20 @@ I've been doing this for 9 years now. Before that I spent 25 years as a mechanic
 
 ## What I Do
 
-- **[Indoor play area inspections](/indoor-play-inspection/)** – soft play centres, play frames, ball pits
-- **[Outdoor playground inspections](/annual-inspection/)** – annual and operational inspections to BS EN1176/1177
+- **[Indoor play area inspections](/indoor-play-inspection/)** – soft play centres, play frames, ball pits (BS EN 1176-10)
+- **[Outdoor playground inspections](/annual-inspection/)** – annual and operational inspections (BS EN 1176 / BS EN 1177)
 - **[Risk assessments](/risk-overview/)** – for both indoor and outdoor sites
 - **Insurance and claims support** – I work with loss adjusters when there's been an incident
 
 I started out inspecting sites for Pontins and local play centres about six years back for the indoor work. The outdoor stuff I've been doing longer. These days I work with councils, schools, nurseries, leisure centres, and private play businesses across the North West.
+
+## The Standards
+
+Play equipment safety in the UK falls under **BS EN 1176** (equipment) and **BS EN 1177** (surfacing). These aren't legally mandatory, but they're what courts, insurers, and local authorities use to judge whether you've met your duty of care.
+
+BS EN 1176 has multiple parts covering different equipment types – Part 7 sets out inspection requirements, Part 10 covers fully enclosed play equipment like soft play centres. BS EN 1177 deals with impact-absorbing surfaces and how they're tested.
+
+Annual inspections need to be carried out by someone registered with the RPII (Register of Play Inspectors International). That's me.
 
 ## Coverage
 
