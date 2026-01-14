@@ -19,9 +19,9 @@
   --color-secondary: #276749;
   --color-secondary-light: #38a169;
 
-  // Backgrounds - darker tones
-  --color-bg: #e2e8f0;
-  --color-bg-alt: #cbd5e1;
+  // Backgrounds - clean white for content
+  --color-bg: #ffffff;
+  --color-bg-alt: #fafafa;
   --color-bg-dark: #1a365d;
 
   // Text
@@ -140,10 +140,21 @@ input[type="submit"] {
   }
 }
 
-// All cards and content sections
+// All cards and content sections - white backgrounds
 section {
   position: relative;
   z-index: 1;
+  background: #ffffff;
+}
+
+// Main content area white background
+main {
+  background: #ffffff;
+}
+
+// Design system sections white
+.design-system {
+  background: #ffffff !important;
 }
 
 // Subtle warm glow behind card sections
@@ -233,4 +244,19 @@ textarea:focus,
 select:focus {
   border-color: var(--color-primary);
   box-shadow: 0 0 0 3px rgba(26, 54, 93, 0.1);
+}
+
+// Fix mobile centering
+@media (max-width: 768px) {
+  .design-system {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+
+  ul.features {
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: auto;
+    margin-right: auto;
+  }
 }
