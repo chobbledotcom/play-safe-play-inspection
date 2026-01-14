@@ -8,4 +8,4 @@ no_index: true
 
 ## Thank You
 
-Your message has been sent - we will be in touch.
+Your message has been sent. I'll be in touch.
