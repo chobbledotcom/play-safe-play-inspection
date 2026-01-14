@@ -1,7 +1,7 @@
 ---
 header_text: "Get in Touch"
 meta_title: "Contact | Play Safe Play Inspections | Chorley, Lancashire"
-meta_description: "Book a play area inspection or get a quote. Based in Chorley, covering the North West and beyond."
+meta_description: "Book a play area inspection or get a quote. Based in Chorley, covering the North West."
 eleventyNavigation:
   key: Contact
   order: 7
@@ -26,4 +26,4 @@ For regular clients with multiple sites or ongoing operational inspections, I ca
 
 ## Coverage
 
-I'm based in the North West and cover Lancashire, Greater Manchester, Merseyside, Cheshire, and Cumbria as standard. Happy to travel further for the right job – just ask.
+I'm based in the North West and cover Lancashire, Greater Manchester, Merseyside, Cheshire, and Cumbria as standard. I can travel further if needed.
