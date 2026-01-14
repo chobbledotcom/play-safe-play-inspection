@@ -1,2 +1,168 @@
 @charset "utf-8";
-@use "sass:color";
+
+// Corporate Safety Theme
+// Professional play inspection with safety-focused colors
+// Navy blue for trust + Safety orange/amber for attention
+
+:root {
+  // Primary palette - Navy blue (trust, professionalism)
+  --color-primary: #1a365d;
+  --color-primary-light: #2c5282;
+  --color-primary-dark: #0d1b2a;
+
+  // Accent - Safety orange (attention, warning, safety)
+  --color-accent: #dd6b20;
+  --color-accent-light: #ed8936;
+  --color-accent-dark: #c05621;
+
+  // Secondary - Safety green (approved, compliant)
+  --color-secondary: #276749;
+  --color-secondary-light: #38a169;
+
+  // Backgrounds
+  --color-bg: #f7fafc;
+  --color-bg-alt: #edf2f7;
+  --color-bg-dark: #1a365d;
+
+  // Text
+  --color-text: #2d3748;
+  --color-text-light: #718096;
+  --color-text-dark: #1a202c;
+
+  // Links
+  --color-link: #1a365d;
+  --color-link-hover: #dd6b20;
+
+  // UI Elements
+  --border: 1px solid #e2e8f0;
+  --box-shadow: 0 4px 6px rgba(26, 54, 93, 0.1);
+  --box-shadow-lg: 0 10px 25px rgba(26, 54, 93, 0.15);
+
+  // Typography
+  --font-family-body: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  --font-family-heading: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+
+  // Link styles
+  --link-decoration: none;
+  --link-decoration-hover: underline;
+}
+
+// Base
+body {
+  background: var(--color-bg);
+  color: var(--color-text);
+}
+
+// Site header - dark navy with orange accent
+header {
+  --color-text: #ffffff;
+  --color-link: #ffffff;
+  --color-link-hover: var(--color-accent-light);
+  background: linear-gradient(135deg, var(--color-primary-dark) 0%, var(--color-primary) 100%);
+  border-bottom: 4px solid var(--color-accent);
+
+  h1, h2, h3 {
+    color: #ffffff;
+    -webkit-text-fill-color: #ffffff;
+    background: none;
+    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+  }
+}
+
+// Navigation
+nav a {
+  font-weight: 500;
+  letter-spacing: 0.025em;
+  text-transform: uppercase;
+  font-size: 0.875rem;
+}
+
+// Buttons - Safety orange
+.btn,
+button[type="submit"],
+input[type="submit"] {
+  background: var(--color-accent);
+  color: #ffffff;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+
+  &:hover {
+    background: var(--color-accent-dark);
+  }
+}
+
+.btn-secondary,
+.btn-outline {
+  background: transparent;
+  color: var(--color-primary);
+  border: 2px solid var(--color-primary);
+
+  &:hover {
+    background: var(--color-primary);
+    color: #ffffff;
+  }
+}
+
+// Cards - add accent border
+.feature {
+  border-top: 3px solid var(--color-accent);
+}
+
+// Headings - Navy with orange underline
+h1, h2, h3, h4, h5, h6 {
+  color: var(--color-primary-dark);
+}
+
+h2::after {
+  background: var(--color-accent);
+}
+
+// Stats - orange values
+.stat strong,
+.stats strong {
+  color: var(--color-accent);
+}
+
+// Icons - orange
+.icon {
+  color: var(--color-accent);
+}
+
+// List markers - green (safety approved)
+ul:not([class]) li::marker {
+  color: var(--color-secondary);
+}
+
+// Blockquotes
+blockquote {
+  border-left-color: var(--color-accent);
+  background: var(--color-bg-alt);
+}
+
+// Footer - dark navy
+footer {
+  background: var(--color-primary-dark);
+  color: rgba(255, 255, 255, 0.8);
+  border-top: 4px solid var(--color-accent);
+
+  a {
+    color: rgba(255, 255, 255, 0.9);
+    &:hover { color: var(--color-accent-light); }
+  }
+
+  h3, h4 { color: #ffffff; }
+}
+
+// Horizontal rules
+hr {
+  background: linear-gradient(90deg, var(--color-accent) 0%, transparent 100%);
+}
+
+// Form focus states
+input:focus,
+textarea:focus,
+select:focus {
+  border-color: var(--color-primary);
+  box-shadow: 0 0 0 3px rgba(26, 54, 93, 0.1);
+}

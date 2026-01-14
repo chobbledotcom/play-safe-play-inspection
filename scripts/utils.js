@@ -1,5 +1,5 @@
 import { resolve, join, extname } from "node:path";
-import { rmSync, mkdirSync, cpSync, renameSync, existsSync } from "node:fs";
+import { rmSync, mkdirSync, cpSync, renameSync, existsSync, readdirSync } from "node:fs";
 
 // Paths
 export const root = resolve(import.meta.dir, "..");
@@ -43,20 +43,85 @@ export const git = {
     run(["git", "--git-dir", join(dir, ".git"), "--work-tree", dir, "reset", opts.hard ? "--hard" : "--soft"]),
 };
 
-// Rsync commands
-const rsyncExcludes = (list) => list.flatMap((e) => ["--exclude", e]);
-const rsyncIncludes = (list) => list.flatMap((e) => ["--include", e]);
+// Rsync replacement - pure JavaScript implementation
+const matchesPattern = (name, pattern) => {
+  if (pattern.startsWith("*.")) {
+    return name.endsWith(pattern.slice(1));
+  }
+  if (pattern.includes("*")) {
+    const regex = new RegExp("^" + pattern.replace(/\*/g, ".*") + "$");
+    return regex.test(name);
+  }
+  return name === pattern;
+};
 
-export const rsync = (src, dest, opts = {}) => run([
-  "rsync",
-  "--recursive",
-  ...(opts.update ? ["--update"] : []),
-  ...(opts.delete ? ["--delete"] : []),
-  ...rsyncExcludes(opts.exclude || []),
-  ...rsyncIncludes(opts.include || []),
-  src.endsWith("/") ? src : `${src}/`,
-  dest.endsWith("/") ? dest : `${dest}/`,
-]);
+const shouldInclude = (name, excludes, includes) => {
+  // If includes specified, check if it matches any include pattern
+  if (includes && includes.length > 0) {
+    const isDir = name.endsWith("/");
+    // Directories always pass through when includes specified (to traverse)
+    if (isDir && includes.some((p) => p === "*/")) return true;
+    return includes.some((p) => matchesPattern(name, p));
+  }
+  // Otherwise check excludes
+  return !excludes.some((p) => matchesPattern(name, p));
+};
+
+const copyDirRecursive = (src, dest, opts = {}) => {
+  const { exclude = [], include, update = false, deleteExtra = false } = opts;
+
+  if (!existsSync(src)) return;
+  mkdirSync(dest, { recursive: true });
+
+  const entries = readdirSync(src, { withFileTypes: true });
+
+  for (const entry of entries) {
+    const name = entry.name;
+    if (!shouldInclude(name, exclude, include)) continue;
+
+    const srcPath = join(src, name);
+    const destPath = join(dest, name);
+
+    if (entry.isDirectory()) {
+      copyDirRecursive(srcPath, destPath, opts);
+    } else {
+      // Skip if update mode and dest is newer
+      if (update && existsSync(destPath)) {
+        const srcStat = Bun.file(srcPath);
+        const destStat = Bun.file(destPath);
+        if (destStat.lastModified >= srcStat.lastModified) continue;
+      }
+      cpSync(srcPath, destPath);
+    }
+  }
+
+  // Delete files in dest that don't exist in src
+  if (deleteExtra) {
+    const destEntries = readdirSync(dest, { withFileTypes: true });
+    for (const entry of destEntries) {
+      if (!shouldInclude(entry.name, exclude, include)) continue;
+      const srcPath = join(src, entry.name);
+      const destPath = join(dest, entry.name);
+      if (!existsSync(srcPath)) {
+        rmSync(destPath, { recursive: true, force: true });
+      }
+    }
+  }
+};
+
+export const rsync = (src, dest, opts = {}) => {
+  const srcPath = src.endsWith("/") ? src.slice(0, -1) : src;
+  const destPath = dest.endsWith("/") ? dest.slice(0, -1) : dest;
+
+  copyDirRecursive(srcPath, destPath, {
+    exclude: opts.exclude || [],
+    include: opts.include,
+    update: opts.update || false,
+    deleteExtra: opts.delete || false,
+  });
+
+  return { exitCode: 0 };
+};
 
 // Bun commands
 export const bun = {
