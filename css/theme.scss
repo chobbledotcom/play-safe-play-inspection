@@ -5,21 +5,29 @@
 // Navy blue for trust + Safety orange/amber for attention
 
 @font-face {
-  font-family: 'ADLaM Display';
+  font-family: "ADLaM Display";
   font-style: normal;
   font-weight: 400;
-  src: url('/assets/fonts/adlam-display-latin-ext-400-normal.woff2') format('woff2'),
-       url('/assets/fonts/adlam-display-latin-ext-400-normal.woff') format('woff');
-  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+  src:
+    url("/assets/fonts/adlam-display-latin-ext-400-normal.woff2")
+      format("woff2"),
+    url("/assets/fonts/adlam-display-latin-ext-400-normal.woff") format("woff");
+  unicode-range:
+    U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020,
+    U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
 
 @font-face {
-  font-family: 'ADLaM Display';
+  font-family: "ADLaM Display";
   font-style: normal;
   font-weight: 400;
-  src: url('/assets/fonts/adlam-display-latin-400-normal.woff2') format('woff2'),
-       url('/assets/fonts/adlam-display-latin-400-normal.woff') format('woff');
-  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+  src:
+    url("/assets/fonts/adlam-display-latin-400-normal.woff2") format("woff2"),
+    url("/assets/fonts/adlam-display-latin-400-normal.woff") format("woff");
+  unicode-range:
+    U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC,
+    U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193,
+    U+2212, U+2215, U+FEFF, U+FFFD;
 }
 
 :root {
@@ -53,12 +61,19 @@
 
   // UI Elements - enhanced shadows
   --border: 1px solid #cbd5e1;
-  --box-shadow: 0 4px 6px -1px rgba(13, 27, 42, 0.15), 0 2px 4px -2px rgba(13, 27, 42, 0.1);
-  --box-shadow-lg: 0 20px 25px -5px rgba(13, 27, 42, 0.2), 0 8px 10px -6px rgba(13, 27, 42, 0.15);
+  --box-shadow:
+    0 4px 6px -1px rgba(13, 27, 42, 0.15), 0 2px 4px -2px rgba(13, 27, 42, 0.1);
+  --box-shadow-lg:
+    0 20px 25px -5px rgba(13, 27, 42, 0.2),
+    0 8px 10px -6px rgba(13, 27, 42, 0.15);
 
   // Typography
-  --font-family-body: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-  --font-family-heading: 'ADLaM Display', system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  --font-family-body:
+    system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial,
+    sans-serif;
+  --font-family-heading:
+    "ADLaM Display", system-ui, -apple-system, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, sans-serif;
 
   // Link styles
   --link-decoration: none;
@@ -67,8 +82,7 @@
 
 // Base - gradient background with subtle pattern
 body {
-  background:
-    linear-gradient(135deg, #dde4ed 0%, #c8d4e3 50%, #b8c8db 100%);
+  background: linear-gradient(135deg, #dde4ed 0%, #c8d4e3 50%, #b8c8db 100%);
   background-attachment: fixed;
   color: var(--color-text);
   min-height: 100vh;
@@ -89,12 +103,23 @@ body::before {
   z-index: 0;
 }
 
+.brand {
+  display: block;
+  text-align: center;
+  font-family: var(--font-family-heading);
+  font-size: 4rem;
+}
+
 // Site header - semi-transparent with backdrop blur
 header {
   --color-text: #ffffff;
   --color-link: #ffffff;
   --color-link-hover: var(--color-accent-light);
-  background: linear-gradient(135deg, rgba(13, 27, 42, 0.92) 0%, rgba(26, 54, 93, 0.88) 100%);
+  background: linear-gradient(
+    135deg,
+    rgba(13, 27, 42, 0.92) 0%,
+    rgba(26, 54, 93, 0.88) 100%
+  );
   backdrop-filter: blur(12px);
   -webkit-backdrop-filter: blur(12px);
   border-bottom: 4px solid var(--color-accent);
@@ -102,7 +127,9 @@ header {
   position: relative;
   z-index: 10;
 
-  h1, h2, h3 {
+  h1,
+  h2,
+  h3 {
     color: #ffffff;
     -webkit-text-fill-color: #ffffff;
     background: none;
@@ -116,6 +143,11 @@ nav a {
   letter-spacing: 0.025em;
   text-transform: uppercase;
   font-size: 0.875rem;
+  border-bottom: 2px solid transparent;
+}
+
+nav .active {
+  border-bottom-color: #dd6b20;
 }
 
 // Buttons - Safety orange
@@ -150,7 +182,9 @@ input[type="submit"] {
   border-top: 3px solid var(--color-accent);
   box-shadow: var(--box-shadow);
   background: #fcfcfc;
-  transition: box-shadow 0.3s ease, transform 0.3s ease;
+  transition:
+    box-shadow 0.3s ease,
+    transform 0.3s ease;
 
   &:hover {
     box-shadow: var(--box-shadow-lg);
@@ -167,7 +201,7 @@ section {
 
 // Main content area white background
 main {
-  background: #ffffff;
+  padding: 0;
 }
 
 // Design system sections white
@@ -188,7 +222,11 @@ main {
     transform: translateX(-50%);
     width: 90%;
     height: calc(100% + 2rem);
-    background: radial-gradient(ellipse at center, rgba(237, 137, 54, 0.06) 0%, transparent 70%);
+    background: radial-gradient(
+      ellipse at center,
+      rgba(237, 137, 54, 0.06) 0%,
+      transparent 70%
+    );
     pointer-events: none;
     z-index: -1;
   }
@@ -197,21 +235,32 @@ main {
 // Content blocks with shadows
 .grid > div,
 article,
-.card {
+.card,
+nav,
+footer {
   box-shadow: var(--box-shadow);
   background: #fcfcfc;
 }
 
-
 // Headings - Navy with custom font
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   color: var(--color-primary-dark);
   font-family: var(--font-family-heading);
 }
 
 // Article content headings - orange underline
 article#content {
-  h1, h2, h3, h4, h5, h6 {
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
     border-bottom: 2px solid var(--color-accent);
     padding-bottom: 0.25em;
   }
@@ -245,7 +294,11 @@ blockquote {
 
 // Footer - dark navy with subtle transparency
 footer {
-  background: linear-gradient(135deg, rgba(13, 27, 42, 0.97) 0%, rgba(26, 54, 93, 0.95) 100%);
+  background: linear-gradient(
+    135deg,
+    rgba(13, 27, 42, 0.97) 0%,
+    rgba(26, 54, 93, 0.95) 100%
+  );
   color: rgba(255, 255, 255, 0.85);
   border-top: 4px solid var(--color-accent);
   position: relative;
@@ -254,10 +307,15 @@ footer {
 
   a {
     color: rgba(255, 255, 255, 0.9);
-    &:hover { color: var(--color-accent-light); }
+    &:hover {
+      color: var(--color-accent-light);
+    }
   }
 
-  h3, h4 { color: #ffffff; }
+  h3,
+  h4 {
+    color: #ffffff;
+  }
 }
 
 // Horizontal rules
@@ -272,4 +330,3 @@ select:focus {
   border-color: var(--color-primary);
   box-shadow: 0 0 0 3px rgba(26, 54, 93, 0.1);
 }
-
