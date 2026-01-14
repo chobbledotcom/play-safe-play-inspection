@@ -1,7 +1,7 @@
 ---
 header_text: "Inflatable Inspection"
-meta_title: "Inflatable Inspection | PIPA & RPII Registered | North West"
-meta_description: "Annual inflatable inspections to BS EN14960. PIPA scheme or in-house certification. RPII-registered inspector based in the North West."
+meta_title: "Inflatable Inspection | PIPA Registered | North West"
+meta_description: "Annual inflatable inspections to BS EN14960. PIPA scheme or in-house certification. Qualified inspector based in the North West."
 eleventyNavigation:
   key: Inflatables
   order: 6
@@ -16,7 +16,7 @@ Inflatables need testing once a year. I can do this through:
 - **PIPA scheme** – the industry standard, recognised by HSE and councils
 - **In-house test and certificate** – also compliant with BS EN14960
 
-Both are accepted by insurers and local authorities. I'm listed on the Register of Play Inspectors International (RPII) as a qualified Inflatable Annual Inspector.
+Both are accepted by insurers and local authorities. I'm a PIPA-registered Inflatable Annual Inspector.
 
 ## What's Checked
 

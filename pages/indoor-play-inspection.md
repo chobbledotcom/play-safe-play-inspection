@@ -1,7 +1,7 @@
 ---
 header_text: "Indoor Play Inspection"
 meta_title: "Indoor Play Area Inspection | BS EN 1176-10 | Soft Play Inspections North West"
-meta_description: "RPII-registered inspector for indoor play areas and soft play centres. Annual inspections to BS EN 1176-10 for fully enclosed play equipment."
+meta_description: "Qualified inspector for indoor play areas and soft play centres. Annual inspections to BS EN 1176-10 for fully enclosed play equipment."
 eleventyNavigation:
   key: Indoor Play
   order: 2

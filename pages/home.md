@@ -4,7 +4,7 @@ layout: "page.html"
 header_text: "Play Safe Play Inspections"
 subtitle: "Indoor and outdoor play area inspections"
 meta_title: "Play Safe Play Inspections | Indoor & Outdoor Play Inspector | North West"
-meta_description: "RPII-registered indoor and outdoor play area inspector based in Chorley, Lancashire. Annual and operational inspections to BS EN1176/1177 standards. Serving the North West."
+meta_description: "Qualified indoor and outdoor play area inspector based in Chorley, Lancashire. Annual and operational inspections to BS EN1176/1177 standards. Serving the North West."
 eleventyNavigation:
   key: Home
   order: 1
@@ -15,8 +15,8 @@ blocks:
         label: "Years Experience"
       - value: "BS EN 1176"
         label: "Compliant"
-      - value: "RPII"
-        label: "Registered"
+      - value: "25+"
+        label: "Years Engineering"
       - value: "100%"
         label: "Independent"
   - type: section-header
@@ -42,7 +42,7 @@ blocks:
     align: "left"
   - type: markdown
     content: |
-      I'm Gary Spencer Bonehill, an RPII-registered play inspector based in Chorley, Lancashire. I inspect indoor play areas and outdoor playgrounds for local authorities, schools, holiday parks, and play centres.
+      I'm Gary Spencer Bonehill, a qualified play inspector based in Chorley, Lancashire. I inspect indoor play areas and outdoor playgrounds for local authorities, schools, holiday parks, and play centres.
 
       I've been doing this for 9 years now. Before that I spent 25 years as a mechanical engineer, which is useful when checking equipment for structural issues and wear.
 
@@ -59,7 +59,7 @@ blocks:
       - **Part 10** covers fully enclosed play equipment like soft play centres
       - **BS EN 1177** deals with impact-absorbing surfaces and testing
 
-      Annual inspections need to be carried out by someone registered with the **RPII (Register of Play Inspectors International)**. That's me.
+      Annual inspections need to be carried out by a qualified inspector. That's me – with 25 years of mechanical engineering experience and over 9 years inspecting play equipment.
   - type: section-header
     title: "Coverage Area"
     subtitle: "Based in the North West"

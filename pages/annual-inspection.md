@@ -1,13 +1,13 @@
 ---
 header_text: "Outdoor Annual Inspection"
 meta_title: "Outdoor Playground Annual Inspection | BS EN 1176-7 | North West"
-meta_description: "Annual playground inspections to BS EN 1176 and BS EN 1177 standards. RPII-registered inspector for schools, councils, and parks across the North West."
+meta_description: "Annual playground inspections to BS EN 1176 and BS EN 1177 standards. Qualified inspector for schools, councils, and parks across the North West."
 eleventyNavigation:
   key: Annual Inspection
   order: 3
 ---
 
-Outdoor playgrounds need a full inspection at least once a year. **BS EN 1176-7** (the part of the standard covering installation, inspection, maintenance and operation) sets this out, and specifies that annual inspections must be carried out by someone registered with the RPII.
+Outdoor playgrounds need a full inspection at least once a year. **BS EN 1176-7** (the part of the standard covering installation, inspection, maintenance and operation) sets this out, and specifies that annual inspections must be carried out by a qualified inspector.
 
 ## BS EN 1176 and BS EN 1177
 
