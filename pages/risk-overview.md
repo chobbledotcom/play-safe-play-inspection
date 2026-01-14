@@ -1,11 +1,12 @@
 ---
-header_text: "Risk Assessments & Insurance Support"
 meta_title: "Play Area Risk Assessments | Insurance Claims Support | North West"
 meta_description: "Risk assessments for indoor and outdoor play areas. Support for insurance claims, loss adjusters, and incident investigations."
 eleventyNavigation:
   key: Risk Assessments
   order: 5
 ---
+
+# Risk Assessments & Insurance Support
 
 I provide risk assessments for indoor and outdoor play facilities, and I help when things have gone wrong – working with insurers and loss adjusters after incidents.
 
