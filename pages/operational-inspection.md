@@ -1,11 +1,12 @@
 ---
-header_text: "Operational Inspections"
 meta_title: "Operational Playground Inspections | BS EN 1176-7 | North West"
 meta_description: "Operational inspections for playgrounds as recommended by BS EN 1176-7. Monthly or quarterly checks between annual inspections."
 eleventyNavigation:
   key: Operational Inspection
   order: 4
 ---
+
+# Operational Inspections
 
 **BS EN 1176-7** sets out three levels of playground inspection:
 

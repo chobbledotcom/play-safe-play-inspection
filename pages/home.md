@@ -1,7 +1,6 @@
 ---
 permalink: "/"
 layout: "page.html"
-header_text: "Play Safe Play Inspections"
 subtitle: "Indoor and outdoor play area inspections"
 meta_title: "Play Safe Play Inspections | Indoor & Outdoor Play Inspector | North West"
 meta_description: "Qualified indoor and outdoor play area inspector based in Chorley, Lancashire. Annual and operational inspections to BS EN1176/1177 standards. Serving the North West."
@@ -69,3 +68,5 @@ blocks:
 
       [Get in touch](/contact/) to book an inspection or ask any questions.
 ---
+
+# Play Safe Play Inspections

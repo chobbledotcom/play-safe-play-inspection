@@ -1,11 +1,12 @@
 ---
-header_text: "Get in Touch"
 meta_title: "Contact | Play Safe Play Inspections | Chorley, Lancashire"
 meta_description: "Book a play area inspection or get a quote. Based in Chorley, covering the North West."
 eleventyNavigation:
   key: Contact
   order: 7
 ---
+
+# Get in Touch
 
 Give me a ring or drop me an email to book an inspection or ask any questions.
 

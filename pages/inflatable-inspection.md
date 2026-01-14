@@ -1,11 +1,12 @@
 ---
-header_text: "Inflatable Inspection"
 meta_title: "Inflatable Inspection | PIPA Registered | North West"
 meta_description: "Annual inflatable inspections to BS EN14960. PIPA scheme or in-house certification. Qualified inspector based in the North West."
 eleventyNavigation:
   key: Inflatables
   order: 6
 ---
+
+# Inflatable Inspection
 
 Alongside play area inspections, I'm also registered to inspect inflatables – bouncy castles, inflatable slides, obstacle courses, and similar equipment.
 
