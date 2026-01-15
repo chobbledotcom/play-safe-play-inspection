@@ -84,6 +84,8 @@
 body {
   background: linear-gradient(135deg, #dde4ed 0%, #c8d4e3 50%, #b8c8db 100%);
   background-attachment: fixed;
+  background: url("/images/background.webp");
+  background-size: cover;
   color: var(--color-text);
   min-height: 100vh;
   position: relative;
