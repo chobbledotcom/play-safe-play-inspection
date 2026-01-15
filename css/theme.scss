@@ -319,6 +319,48 @@ footer {
   }
 }
 
+// Footer content layout
+.footer-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 2rem;
+  flex-wrap: wrap;
+}
+
+.footer-logo {
+  flex-shrink: 0;
+
+  img {
+    max-width: 180px;
+    height: auto;
+    filter: brightness(0) invert(1);
+  }
+}
+
+.footer-contact {
+  text-align: right;
+
+  p {
+    margin: 0.25rem 0;
+  }
+
+  strong {
+    color: #ffffff;
+  }
+}
+
+@media (max-width: 600px) {
+  .footer-content {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .footer-contact {
+    text-align: center;
+  }
+}
+
 // Horizontal rules
 hr {
   background: linear-gradient(90deg, var(--color-accent) 0%, transparent 100%);
