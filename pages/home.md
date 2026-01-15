@@ -69,5 +69,3 @@ blocks:
 
       [Get in touch](/contact/) to book an inspection or ask any questions.
 ---
-
-# Play Safe Play Inspections
