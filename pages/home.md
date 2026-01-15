@@ -22,6 +22,7 @@ blocks:
     title: "What I Do"
     subtitle: "Inspections for indoor soft play centres and outdoor playgrounds across the North West"
   - type: image-cards
+    image_aspect_ratio: "4/3"
     items:
       - image: "/images/soft-play-centre.png"
         title: "Indoor Play Inspections"
