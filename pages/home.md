@@ -21,20 +21,20 @@ blocks:
   - type: section-header
     title: "What I Do"
     subtitle: "Inspections for indoor soft play centres and outdoor playgrounds across the North West"
-  - type: features
+  - type: image-cards
     items:
-      - icon: "&#127968;"
+      - image: "/images/soft-play-centre.png"
         title: "Indoor Play Inspections"
         description: "Soft play centres, play frames, and ball pits inspected to BS EN 1176-10 standards."
-      - icon: "&#127795;"
+        link: "/indoor-play-inspection/"
+      - image: "/images/outdoor-playground.png"
         title: "Outdoor Playground Inspections"
         description: "Annual and operational inspections for parks, schools, and leisure facilities to BS EN 1176 and BS EN 1177."
-      - icon: "&#128203;"
+        link: "/annual-inspection/"
+      - image: "/images/clipboard.png"
         title: "Risk Assessments"
         description: "Risk assessments for indoor and outdoor play areas, with hazard identification and recommendations."
-      - icon: "&#128737;"
-        title: "Insurance Support"
-        description: "Support for insurance claims and loss adjusters when incidents occur on play equipment."
+        link: "/risk-overview/"
   - type: section-header
     title: "About Gary Spencer Bonehill"
     subtitle: "Independent play inspector"
