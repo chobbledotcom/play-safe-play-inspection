@@ -266,7 +266,7 @@ blockquote {
 }
 
 // Footer - dark navy with subtle transparency (repurposed header style)
-footer {
+body > footer {
   --color-text: #ffffff;
   --color-link: #ffffff;
   --color-link-hover: var(--color-accent-light);
@@ -297,47 +297,45 @@ footer {
     background: none;
     text-shadow: 0 2px 8px rgba(0, 0, 0, 0.4);
   }
-}
-
-// Footer content layout
-.footer-content {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  gap: 2rem;
-  flex-wrap: wrap;
-}
-
-.footer-logo {
-  flex-shrink: 0;
-
-  img {
-    max-width: 180px;
-    height: auto;
-    filter: brightness(0) invert(1);
-  }
-}
-
-.footer-contact {
-  text-align: right;
-
-  p {
-    margin: 0.25rem 0;
-  }
-
-  strong {
-    color: #ffffff;
-  }
-}
-
-@media (max-width: 600px) {
   .footer-content {
-    flex-direction: column;
-    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 2rem;
+    flex-wrap: wrap;
+  }
+
+  .footer-logo {
+    flex-shrink: 0;
+
+    img {
+      max-width: 180px;
+      height: auto;
+      filter: brightness(0) invert(1);
+    }
   }
 
   .footer-contact {
-    text-align: center;
+    text-align: right;
+
+    p {
+      margin: 0.25rem 0;
+    }
+
+    strong {
+      color: #ffffff;
+    }
+  }
+
+  @media (max-width: 600px) {
+    .footer-content {
+      flex-direction: column;
+      text-align: center;
+    }
+
+    .footer-contact {
+      text-align: center;
+    }
   }
 }
 
