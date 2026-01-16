@@ -1,23 +1,19 @@
 {
 	"name": "Play Safe Play Inspections",
-	"url": "https://example.chobble.com",
+	"url": "https://www.playsafeplayinspection.co.uk",
 	"socials": {
 		"Facebook": null,
 		"Instagram": null,
 		"TikTok": null,
 		"Google": null,
 		"WhatsApp": null,
-		"RSS": "/feed.xml"
+		"RSS": null
 	},
 	"sticky_mobile_nav": true,
 	"horizontal_nav": true,
 	"template_repo_url": "https://git.chobble.com/chobble/chobble-client",
 	"cms_config": {
-		"collections": [
-			"pages",
-			"categories",
-			"reviews"
-		],
+		"collections": ["pages", "categories", "reviews"],
 		"features": {
 			"permalinks": false,
 			"redirects": false,
