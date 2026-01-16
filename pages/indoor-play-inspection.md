@@ -8,7 +8,7 @@ eleventyNavigation:
 
 # Indoor Play Inspection
 
-I've been inspecting indoor play areas for about six years now. Started with Pontins holiday parks and local soft play centres, and it's grown from there.
+I've been inspecting indoor play areas for about six years now. I started with Pontins holiday parks and local soft play centres, and it's grown from there.
 
 ## BS EN 1176-10: Fully Enclosed Play Equipment
 
