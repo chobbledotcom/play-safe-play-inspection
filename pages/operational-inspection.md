@@ -18,7 +18,7 @@ Annual inspections are the minimum formal requirement. But for busy sites, or an
 
 ## How Often
 
-Depends on the site:
+It depends on the site:
 
 - **Monthly** – high-use sites, public parks, school playgrounds
 - **Quarterly** – lower-use sites, private facilities, housing estate play areas

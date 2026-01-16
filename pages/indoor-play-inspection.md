@@ -8,7 +8,7 @@ eleventyNavigation:
 
 # Indoor Play Inspection
 
-I've been inspecting indoor play areas for about six years now. Started with Pontins holiday parks and local soft play centres, and it's grown from there.
+I've been inspecting indoor play areas for about six years now. I started with Pontins holiday parks and local soft play centres, and it's grown from there.
 
 ## BS EN 1176-10: Fully Enclosed Play Equipment
 
@@ -45,10 +45,10 @@ Between annual inspections, I can do regular checks – monthly or quarterly dep
 
 ## Risk Assessments
 
-I provide risk assessments for indoor play facilities. Useful for your own records, insurance purposes, or if you're opening a new site and need documentation in place.
+I provide risk assessments for indoor play facilities. They're useful for your own records, insurance purposes, or if you're opening a new site and need documentation in place.
 
 ## Who I Work With
 
-Play centres, leisure centres, holiday parks, pubs with play areas, restaurants with soft play, nurseries – anywhere with indoor play equipment that needs checking.
+I work with play centres, leisure centres, holiday parks, pubs with play areas, restaurants with soft play, and nurseries – anywhere with indoor play equipment that needs checking.
 
 [Get in touch](/contact/) to arrange an inspection.
