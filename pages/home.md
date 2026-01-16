@@ -65,7 +65,7 @@ blocks:
     subtitle: "Based in the North West"
   - type: markdown
     content: |
-      Based in Chorley but I cover the whole of the **North West** – Lancashire, Greater Manchester, Merseyside, Cheshire, Cumbria. I'll travel further if needed, just get in touch.
+      I'm based in Chorley but I cover the whole of the **North West** – Lancashire, Greater Manchester, Merseyside, Cheshire, Cumbria. I'll travel further if needed, just get in touch.
 
       [Get in touch](/contact/) to book an inspection or ask any questions.
 ---
