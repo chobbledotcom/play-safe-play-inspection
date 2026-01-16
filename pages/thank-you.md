@@ -1,11 +1,12 @@
 ---
-header_text: Thank You
 meta_description:
 meta_title: Thank You
 navigationParent: Contact
 no_index: true
 ---
 
+# Thank You
+
 ## Thank You
 
-Your message has been sent - we will be in touch.
+Your message has been sent. I'll be in touch.

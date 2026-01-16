@@ -1,6 +1,357 @@
 @charset "utf-8";
 @use "sass:color";
 
+// Corporate Safety Theme
+// Professional play inspection with safety-focused colors
+// Navy blue for trust + Safety orange/amber for attention
+
+@font-face {
+  font-family: "ADLaM Display";
+  font-style: normal;
+  font-weight: 400;
+  src:
+    url("/assets/fonts/adlam-display-latin-ext-400-normal.woff2")
+      format("woff2"),
+    url("/assets/fonts/adlam-display-latin-ext-400-normal.woff") format("woff");
+  unicode-range:
+    U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020,
+    U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+@font-face {
+  font-family: "ADLaM Display";
+  font-style: normal;
+  font-weight: 400;
+  src:
+    url("/assets/fonts/adlam-display-latin-400-normal.woff2") format("woff2"),
+    url("/assets/fonts/adlam-display-latin-400-normal.woff") format("woff");
+  unicode-range:
+    U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC,
+    U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193,
+    U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+:root {
+  // Primary palette - Navy blue (trust, professionalism)
+  --color-primary: #1a365d;
+  --color-primary-light: #2c5282;
+  --color-primary-dark: #0d1b2a;
+
+  // Accent - Safety orange (attention, warning, safety)
+  --color-accent: #dd6b20;
+  --color-accent-light: #ed8936;
+  --color-accent-dark: #c05621;
+
+  // Secondary - Safety green (approved, compliant)
+  --color-secondary: #276749;
+  --color-secondary-light: #38a169;
+
+  // Backgrounds - clean white for content
+  --color-bg: #ffffff;
+  --color-bg-alt: #fafafa;
+  --color-bg-dark: #1a365d;
+
+  // Text
+  --color-text: #1e293b;
+  --color-text-light: #475569;
+  --color-text-dark: #0f172a;
+
+  // Links
+  --color-link: #1a365d;
+  --color-link-hover: #dd6b20;
+
+  // UI Elements - enhanced shadows
+  --border: 1px solid #cbd5e1;
+  --box-shadow:
+    0 4px 6px -1px rgba(13, 27, 42, 0.15), 0 2px 4px -2px rgba(13, 27, 42, 0.1);
+  --box-shadow-lg:
+    0 20px 25px -5px rgba(13, 27, 42, 0.2),
+    0 8px 10px -6px rgba(13, 27, 42, 0.15);
+
+  // Typography
+  --font-family-body:
+    system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial,
+    sans-serif;
+  --font-family-heading:
+    "ADLaM Display", system-ui, -apple-system, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, sans-serif;
+
+  // Link styles
+  --link-decoration: none;
+  --link-decoration-hover: underline;
+}
+
+// Base - gradient background with subtle pattern
+body {
+  background: linear-gradient(135deg, #dde4ed 0%, #c8d4e3 50%, #b8c8db 100%);
+  background-attachment: fixed;
+  background: url("/images/background.webp");
+  background-size: cover;
+  color: var(--color-text);
+  min-height: 100vh;
+  position: relative;
+}
+
+// SVG pattern overlay
+body::before {
+  content: "";
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  opacity: 0.4;
+  background-image: url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%231a365d' fill-opacity='0.08'%3E%3Cpath d='M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+  z-index: 0;
+}
+
 .brand {
+  display: block;
+  text-align: center;
+  font-family: var(--font-family-heading);
+  font-size: 4rem;
+  margin: 0;
   fill: white;
+}
+
+// Navigation
+nav a {
+  font-weight: 500;
+  letter-spacing: 0.025em;
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  border-bottom: 2px solid transparent;
+}
+
+nav .active {
+  border-bottom-color: #dd6b20;
+}
+
+// Buttons - Safety orange
+.btn,
+button[type="submit"],
+input[type="submit"] {
+  background: var(--color-accent);
+  color: #ffffff;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+
+  &:hover {
+    background: var(--color-accent-dark);
+  }
+}
+
+.btn-secondary,
+.btn-outline {
+  background: transparent;
+  color: var(--color-primary);
+  border: 2px solid var(--color-primary);
+
+  &:hover {
+    background: var(--color-primary);
+    color: #ffffff;
+  }
+}
+
+// Cards - enhanced with shadows and accent border
+.feature {
+  border-top: 3px solid var(--color-accent);
+  box-shadow: var(--box-shadow);
+  background: #fcfcfc;
+  transition:
+    box-shadow 0.3s ease,
+    transform 0.3s ease;
+
+  &:hover {
+    box-shadow: var(--box-shadow-lg);
+    transform: translateY(-2px);
+  }
+}
+
+// All cards and content sections - white backgrounds
+section {
+  position: relative;
+  z-index: 1;
+  background: #ffffff;
+}
+
+// Main content area white background
+main {
+  padding: 0;
+}
+
+// Design system sections white
+.design-system {
+  background: #ffffff !important;
+}
+
+// Subtle warm glow behind card sections
+.features,
+.grid {
+  position: relative;
+
+  &::before {
+    content: "";
+    position: absolute;
+    top: -1rem;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 90%;
+    height: calc(100% + 2rem);
+    background: radial-gradient(
+      ellipse at center,
+      rgba(237, 137, 54, 0.06) 0%,
+      transparent 70%
+    );
+    pointer-events: none;
+    z-index: -1;
+  }
+}
+
+// Content blocks with shadows
+.grid > div,
+article,
+.card,
+nav {
+  box-shadow: var(--box-shadow);
+  background: #fcfcfc;
+}
+
+// Headings - Navy with custom font
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: var(--color-primary-dark);
+  font-family: var(--font-family-heading);
+}
+
+// Article content headings - orange underline
+article#content {
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    border-bottom: 2px solid var(--color-accent);
+    padding-bottom: 0.25em;
+  }
+}
+
+h2::after {
+  background: var(--color-accent);
+}
+
+// Stats - orange values
+.stat strong,
+.stats strong {
+  color: var(--color-accent);
+}
+
+// Icons - orange
+.icon {
+  color: var(--color-accent);
+}
+
+// List markers - green (safety approved)
+ul:not([class]) li::marker {
+  color: var(--color-secondary);
+}
+
+// Blockquotes
+blockquote {
+  border-left-color: var(--color-accent);
+  background: var(--color-bg-alt);
+}
+
+// Footer - dark navy with subtle transparency (repurposed header style)
+body > footer {
+  --color-text: #ffffff;
+  --color-link: #ffffff;
+  --color-link-hover: var(--color-accent-light);
+  background: linear-gradient(
+    135deg,
+    rgba(13, 27, 42, 0.92) 0%,
+    rgba(26, 54, 93, 0.88) 100%
+  );
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  color: rgba(255, 255, 255, 0.85);
+  border-top: 4px solid var(--color-accent);
+  position: relative;
+  z-index: 10;
+  box-shadow: 0 -4px 30px rgba(13, 27, 42, 0.2);
+
+  a {
+    color: rgba(255, 255, 255, 0.9);
+    &:hover {
+      color: var(--color-accent-light);
+    }
+  }
+
+  h3,
+  h4 {
+    color: #ffffff;
+    -webkit-text-fill-color: #ffffff;
+    background: none;
+    text-shadow: 0 2px 8px rgba(0, 0, 0, 0.4);
+  }
+  .footer-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 2rem;
+    flex-wrap: wrap;
+  }
+
+  .footer-logo {
+    flex-shrink: 0;
+
+    img {
+      max-width: 180px;
+      height: auto;
+      filter: brightness(0) invert(1);
+    }
+  }
+
+  .footer-contact {
+    text-align: right;
+
+    p {
+      margin: 0.25rem 0;
+    }
+
+    strong {
+      color: #ffffff;
+    }
+  }
+
+  @media (max-width: 600px) {
+    .footer-content {
+      flex-direction: column;
+      text-align: center;
+    }
+
+    .footer-contact {
+      text-align: center;
+    }
+  }
+}
+
+// Horizontal rules
+hr {
+  background: linear-gradient(90deg, var(--color-accent) 0%, transparent 100%);
+}
+
+// Form focus states
+input:focus,
+textarea:focus,
+select:focus {
+  border-color: var(--color-primary);
+  box-shadow: 0 0 0 3px rgba(26, 54, 93, 0.1);
 }
