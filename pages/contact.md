@@ -14,7 +14,7 @@ Give me a ring or drop me an email to book an inspection or ask any questions.
 
 **Email:** info@playsafeplayinspection.co.uk
 
-**Based:** Chorley, Lancashire
+**Based:** Chorley, Lancashire ([Google Maps](https://maps.app.goo.gl/6hp4yjVUpcHvJiGVA))
 
 ## How Booking Works
 
