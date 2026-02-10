@@ -24,15 +24,15 @@ blocks:
   - type: image-cards
     image_aspect_ratio: "4/3"
     items:
-      - image: "/images/soft-play-centre.png"
+      - image: "/assets/soft-play-centre.png"
         title: "Indoor Play Inspections"
         description: "Soft play centres, play frames, and ball pits inspected to BS EN 1176-10 standards."
         link: "/indoor-play-inspection/"
-      - image: "/images/outdoor-playground.png"
+      - image: "/assets/outdoor-playground.png"
         title: "Outdoor Playground Inspections"
         description: "Annual and operational inspections for parks, schools, and leisure facilities to BS EN 1176 and BS EN 1177."
         link: "/annual-inspection/"
-      - image: "/images/clipboard.png"
+      - image: "/assets/clipboard.png"
         title: "Risk Assessments"
         description: "Risk assessments for indoor and outdoor play areas, with hazard identification and recommendations."
         link: "/risk-overview/"
