@@ -1,25 +1,25 @@
 ---
-meta_title: "Bouncy Castle & Inflatable Inspection | PIPA"
-meta_description: "Bouncy castle and inflatable inspection to BS EN 14960. PIPA registered inspector based in the North West. Annual testing for hire companies and leisure centres."
+meta_title: "Bouncy Castle & Inflatable Inspection | RPII"
+meta_description: "Bouncy castle and inflatable inspection to BS EN 14960. RPII-registered inspector based in the North West. Annual testing for hire companies and leisure centres."
 eleventyNavigation:
   key: Inflatables
   order: 6
 faqs:
-  - question: "What is PIPA?"
-    answer: "PIPA stands for the Professional Inflatable Play Association. It is the UK's not-for-profit safety and inspection scheme for inflatable play equipment, supported by the Health and Safety Executive (HSE). When an inflatable passes a PIPA test, it receives a numbered tag that can be checked on a public database. PIPA is one of two schemes recognised by the HSE — the other is ADiPS."
+  - question: "What is RPII?"
+    answer: "RPII stands for the Register of Play Inspectors International. It is the independent examination body that qualifies and registers playground and inflatable inspectors. An RPII-registered Inflatable Annual Inspector has been trained and examined to carry out annual inflatable inspections to BS EN 14960. You can check an inspector's registration on the RPII website at playinspectors.com."
   - question: "Is a bouncy castle inspection a legal requirement?"
-    answer: "Yes — although PIPA itself is not required by law, the Provision and Use of Work Equipment Regulations 1998 (PUWER) requires that all work equipment, including inflatables, is inspected annually by a competent person. HSE guidance (HSG175) reinforces this. Using a PIPA-registered inspector is regarded by the HSE as following best practice."
+    answer: "Yes. The Provision and Use of Work Equipment Regulations 1998 (PUWER) requires that all work equipment, including inflatables, is inspected annually by a competent person. HSE guidance (HSG175) reinforces this. The key legal requirement is that the inspector is competent — an RPII-registered inspector meets that standard."
   - question: "How often do inflatables need testing?"
     answer: "Once a year for the formal annual inspection. On top of that, operators should carry out their own checks before each use — checking blower function, inflation pressure, fabric condition, anchor points, and structural integrity."
-  - question: "What is the difference between PIPA testing and in-house testing?"
-    answer: "A PIPA test is carried out to BS EN 14960 by a registered PIPA inspector. If it passes, a certificate and numbered tag are issued and logged on a public database. An in-house test follows similar safety principles but there is no central database or public verification. For inflatables within the scope of BS EN 14960, PIPA testing is strongly recommended as it provides the clearest evidence of compliance."
+  - question: "What is the difference between PIPA testing and independent testing?"
+    answer: "PIPA is a database scheme — when an inflatable passes a PIPA test, it gets a numbered tag logged on their public database. Independent testing (sometimes called in-house testing) is carried out to the same BS EN 14960 standard by a qualified inspector, and you receive a test certificate directly. Both are equally valid. What matters legally is that the inspection was done by a competent person to BS EN 14960 — not which database it's logged on. Hirers should be able to show you a valid test certificate either way."
   - question: "What happens if a bouncy castle fails its inspection?"
-    answer: "The inspector records why it failed. The inflatable can then be repaired and re-tested. If it passes on re-test, a PIPA tag and certificate are issued. If it cannot be repaired to meet the standard, it should be withdrawn from use. The inflatable must not be used commercially until it holds a valid certificate."
+    answer: "The inspector records why it failed. The inflatable can then be repaired and re-tested. If it passes on re-test, a certificate is issued. If it cannot be repaired to meet the standard, it should be withdrawn from use. The inflatable must not be used commercially until it holds a valid test certificate."
 ---
 
 # Bouncy Castle & Inflatable Inspection
 
-Alongside play area inspections, I'm also registered to inspect inflatables – bouncy castles, inflatable slides, obstacle courses, and similar equipment.
+Alongside play area inspections, I'm also registered to inspect inflatables – bouncy castles, inflatable slides, obstacle courses, and similar equipment. I'm an [RPII-registered Inflatable Annual Inspector](https://www.playinspectors.com/inspector/?i=6339) (registration AI0138).
 
 ## Why Inflatables Need Annual Testing
 
@@ -29,14 +29,14 @@ Under the Provision and Use of Work Equipment Regulations 1998 (PUWER), any infl
 
 BS EN 14960 is the British and European safety standard for inflatable play equipment. It covers design, manufacture, and ongoing safety requirements for bouncy castles, inflatable slides, obstacle courses, and similar equipment. Annual testing checks your inflatables against this standard.
 
-## PIPA and In-House Testing
+## How Testing Works
 
-I can test your inflatables through two routes:
+I test your inflatables against BS EN 14960 and issue a test certificate. I can do this through:
 
-- **PIPA scheme** – the industry standard, recognised by HSE and councils. PIPA stands for the Professional Inflatable Play Association. When an inflatable passes a PIPA test, it receives a numbered tag that is logged on a public database and can be verified by anyone. PIPA is one of two schemes the HSE recognises for inflatable safety inspections.
-- **In-house test and certificate** – also assessed against BS EN 14960. This is used for equipment that falls outside the scope of PIPA or where an in-house certificate is preferred.
+- **PIPA scheme** – a database scheme where a numbered tag is logged on a public register
+- **Independent test and certificate** – tested to the same BS EN 14960 standard, with a certificate issued directly to you
 
-Both are accepted by insurers and local authorities. I'm an [RPII-registered Inflatable Annual Inspector](https://www.playinspectors.com/inspector/?i=6339) (registration AI0138) and PIPA-registered.
+Both routes are equally valid and accepted by insurers and local authorities. The legal requirement under PUWER is that the inspection is carried out by a competent person — that's what matters, not which database the result sits on. Whichever route you choose, you get a certificate proving your inflatable has been tested and meets the standard. Hire companies should keep these certificates and be able to show them to clients or councils on request.
 
 ## What Gets Checked
 

@@ -41,10 +41,10 @@ These things have already been sorted:
   now links from the contact page, the footer on every page, the
   homepage, and at the bottom of every service page.
 - **FAQs added to all five service pages** - 23 questions and answers
-  based on official sources (RoSPA, HSE, BSI, PIPA). These cover the
+  based on official sources (RoSPA, HSE, BSI, RPII). These cover the
   most common things people search for: "how often does a playground
   need inspecting", "is a playground inspection a legal requirement",
-  "what is PIPA", "do soft play centres need an inspection", "do I need
+  "what is RPII", "do soft play centres need an inspection", "do I need
   a risk assessment for my playground", and many more.
 - **Page titles improved for search** - changed to use the words people
   actually search for. "Inflatable Inspection" is now "Bouncy Castle &
@@ -226,7 +226,6 @@ qualifications heavily.
   about it more)
 - When and why you got into playground inspection
 - Your RPII registration as an Inflatable Annual Inspector (AI0138)
-- Your PIPA registration
 - Any other training or qualifications you hold
 - A photo of yourself
 
