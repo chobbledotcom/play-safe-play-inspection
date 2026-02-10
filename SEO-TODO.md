@@ -29,6 +29,22 @@ explain each one simply.
 
 ---
 
+## Already done
+
+These things have already been sorted:
+
+- **Phone number fixed** - the website settings had a wrong phone
+  number. It's now 07752 805 573 everywhere (contact page, footer,
+  and the behind-the-scenes settings that Google reads).
+- **Google Maps link added across the site** - your Google Maps listing
+  (https://maps.app.goo.gl/6hp4yjVUpcHvJiGVA) now links from the
+  contact page, the footer on every page, the homepage coverage area
+  section, and at the bottom of every service page. This helps Google
+  connect your website to your location and makes it easy for customers
+  to find you on a map.
+
+---
+
 ## The jobs (in priority order)
 
 ### 1. Set up your Google Business Profile (free, very important)
@@ -266,9 +282,8 @@ business. Some of these are currently blank.
 
 - Your founding date (the year you started doing inspections)
 - Your full street address (if you're comfortable sharing it)
-- Double-check the phone number matches everywhere (I noticed the
-  contact page says 07752 805 573 but the settings file has a different
-  number - these need to match)
+- ~~Double-check the phone number matches everywhere~~ DONE - the phone
+  number has been fixed so it's now 07752 805 573 everywhere
 
 ### 13. Set up a Facebook page
 

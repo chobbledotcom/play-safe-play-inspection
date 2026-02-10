@@ -50,4 +50,4 @@ The report gives you documentation for your records, for insurance, and for demo
 - Holiday parks and campsites
 - Pubs, hotels, and visitor attractions with play areas
 
-I work with councils and schools across the North West. [Get in touch](/contact/) to book an inspection or ask about scheduling for multiple sites.
+I'm based in [Chorley, Lancashire](https://maps.app.goo.gl/6hp4yjVUpcHvJiGVA) and work with councils and schools across the North West. [Get in touch](/contact/) to book an inspection or ask about scheduling for multiple sites.
