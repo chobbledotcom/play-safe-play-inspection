@@ -1,14 +1,31 @@
 ---
-meta_title: "Indoor Play Area Inspection | BS EN 1176-10 | Soft Play Inspections North West"
-meta_description: "Qualified inspector for indoor play areas and soft play centres. Annual inspections to BS EN 1176-10 for fully enclosed play equipment."
+meta_title: "Soft Play Centre Inspection | North West UK"
+meta_description: "Soft play centre and indoor play area inspections to BS EN 1176-10. Qualified inspector for play centres, leisure centres, and holiday parks across the North West."
 eleventyNavigation:
   key: Indoor Play
   order: 2
+faqs:
+  - question: "Do soft play centres need an annual inspection?"
+    answer: "There is no single law that says you must, but operators have a duty of care under the Health and Safety at Work Act 1974 and the Occupiers' Liability Acts to keep their premises safe. BS EN 1176-10 recommends annual inspections for fully enclosed play equipment. Courts, local authorities, and insurers all refer to this standard when deciding whether a business has done enough. Many insurance policies make an annual inspection a condition of cover."
+  - question: "What does BS EN 1176-10 cover?"
+    answer: "BS EN 1176-10 is the part of the British and European safety standard that applies to fully enclosed play equipment — typically indoor soft play structures. It covers access and escape routes, visibility for staff supervision, containment (walls, netting, barriers), fire safety and ignition resistance of materials, impact-absorbing surfaces within the structure, and signage. It should be read alongside BS EN 1176-1 which sets out the general safety requirements."
+  - question: "What about ball pits — do they need inspecting too?"
+    answer: "Yes. Ball pits are part of the fully enclosed play equipment covered by BS EN 1176-10. The structural containment area (walls, netting, padding) is checked during the inspection. The balls themselves fall under EN 71, the European toy safety standard, which covers durability, flammability, and toxicity. Operators should regularly check balls for cracks and damage and have a cleaning routine in place."
+  - question: "Can you inspect during opening hours?"
+    answer: "It is usually better to inspect when the equipment is not in use, so the inspector can access all areas of the structure safely and thoroughly. Early mornings before opening or a scheduled closure work best. Get in touch and we can arrange a time that works for your business."
+  - question: "How often should soft play equipment be checked between annual inspections?"
+    answer: "Staff should do a visual check before opening every day, looking for obvious damage or hazards. On top of that, operational inspections — more detailed hands-on checks — should happen monthly or quarterly depending on how busy the centre is. High-traffic sites should be checked more often."
 ---
 
-# Indoor Play Inspection
+# Soft Play Centre & Indoor Play Inspection
 
 I've been inspecting indoor play areas for about six years now. I started with Pontins holiday parks and local soft play centres, and it's grown from there.
+
+## Why Indoor Play Areas Need Inspecting
+
+Soft play centres see heavy use. Children climb, jump, slide, and crash into things – that's the whole point. But that level of use means padding compresses, netting tears, fixings loosen, and foam degrades. What was safe six months ago might not be safe today.
+
+Operators have a duty of care under the Health and Safety at Work Act 1974 and the Occupiers' Liability Acts 1957 and 1984. Courts and insurers use BS EN 1176-10 as the benchmark for whether you've taken reasonable steps to keep your equipment safe. Many insurance policies require an annual inspection as a condition of cover.
 
 ## BS EN 1176-10: Fully Enclosed Play Equipment
 
@@ -25,13 +42,15 @@ Indoor soft play structures fall under **BS EN 1176-10** – the part of the sta
 
 I check all of the above, plus the practical stuff that affects safety day-to-day:
 
-- Soft play structures and frames
-- Ball pits
-- Slides and tunnels
+- Soft play structures and frames – checking structural integrity and stability
+- Ball pits – containment, padding, and ball condition (balls fall under the EN 71 toy safety standard)
+- Slides and tunnels – surfaces, transitions, and run-off areas
 - Padding condition – splits, compression, exposed foam
-- Netting integrity – tears, loose fixings
-- Entry/exit points
+- Netting integrity – tears, loose fixings, and whether containment is adequate
+- Entry/exit points – are they suitable for the age group, and can children get out safely?
 - Entrapment hazards – gaps where heads or limbs could get stuck
+- Fire safety – checking materials meet ignition resistance requirements
+- Ventilation and lighting within the structure
 
 ## Annual Inspections
 

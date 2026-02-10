@@ -42,6 +42,33 @@ These things have already been sorted:
   section, and at the bottom of every service page. This helps Google
   connect your website to your location and makes it easy for customers
   to find you on a map.
+- **FAQs added to all five service pages** - 23 questions and answers
+  based on official sources (RoSPA, HSE, BSI, PIPA). These cover the
+  most common things people search for: "how often does a playground
+  need inspecting", "is a playground inspection a legal requirement",
+  "what is PIPA", "do soft play centres need an inspection", "do I need
+  a risk assessment for my playground", and many more. Google loves FAQ
+  content because it matches what people actually type into search.
+- **Page titles improved for search** - changed to use the words people
+  actually search for. For example, "Inflatable Inspection" is now
+  "Bouncy Castle & Inflatable Inspection" (because people search for
+  "bouncy castle inspection", not "inflatable inspection"). The indoor
+  play page now leads with "Soft Play Centre Inspection" and the risk
+  assessment page now says "Playground Risk Assessment".
+- **Image alt text added** - all three images on the site now have
+  descriptions that tell Google what the photos show. This was
+  completely missing before.
+- **Founding date added** - the behind-the-scenes business data now
+  includes 2017 as the founding year (based on 9+ years experience).
+  This helps Google understand how established the business is.
+- **Page content expanded** - the annual inspection, indoor play, and
+  inflatable pages now have significantly more detail. The inflatable
+  page went from about 160 words to over 500 words, with sections on
+  why testing is legally required (PUWER regulations), what BS EN 14960
+  covers, operator responsibilities, and more detail on what gets
+  checked. The annual inspection page now explains the legal background
+  and the three-tier inspection system. The indoor play page explains
+  why inspections matter and has more detail on what gets checked.
 
 ---
 
@@ -85,63 +112,33 @@ yet. Even 5-10 good reviews would make a big difference.
 - Don't be shy about asking - most people are happy to help, they just
   don't think of it
 
-### 3. Add answers to common questions on each page (FAQs)
+### ~~3. Add answers to common questions on each page (FAQs)~~ DONE
 
-Your website already has the ability to add "Frequently Asked Questions"
-to each page - it's just not being used yet. Google loves FAQ sections
-because they match exactly what people type into search. When someone
-searches "how often does a playground need inspecting?" and your page
-has that exact question answered, Google is much more likely to show
-your page.
+This has been done. 23 FAQs have been added across all five service
+pages, researched from official sources (RoSPA, HSE, BSI, PIPA).
 
-**What to do:** Add 3-5 questions and answers to each of your main
-pages. Here are some suggestions:
+**You can still add more** — if customers ask you questions on the
+phone that aren't already covered, those make great FAQs. The more
+questions you answer on your website, the more searches you can show
+up for.
 
-**For the Annual Inspection page:**
-- "How often does a playground need a full inspection?" - At least once
-  a year, as set out in BS EN 1176-7
-- "Who can carry out an annual playground inspection?" - It must be done
-  by a qualified inspector
-- "What happens if my playground fails the inspection?" - You get a
-  report listing what needs fixing, with risk ratings so you know what's
-  most urgent
-- "How much does a playground inspection cost?" - It depends on the
-  size of the site - get in touch for a quote
+### ~~4. Write more on each page (your pages are quite short)~~ PARTLY DONE
 
-**For the Indoor Play Inspection page:**
-- "Do soft play centres need an annual inspection?" - Yes, BS EN
-  1176-10 covers fully enclosed play equipment
-- "What does an indoor play inspection check?" - Everything from
-  padding condition to escape routes to entrapment hazards
-- "Can you inspect during opening hours?" - Get in touch to discuss
-  what works for your site
+The annual inspection, indoor play, and inflatable pages have been
+expanded with more detail about the legal background, what gets checked,
+and what the standards require.
 
-**For the other pages:** Think about the questions your customers
-actually ask you on the phone, and write those down with your answers.
+**You can still help** by adding things only you know:
 
-### 4. Write more on each page (your pages are quite short)
-
-Your competitors' pages have 1,000-3,000 words on them. Your pages
-have about 150-450 words each. Google tends to prefer pages with more
-detailed, useful content because it sees them as more helpful to the
-person searching.
-
-This doesn't mean waffling - it means going into more detail about what
-you actually do.
-
-**What to do:** On each service page, try adding:
-
-- A section about **what happens on the day** - what time you arrive,
+- A section about **what happens on the day** — what time you arrive,
   how long it takes, what equipment you bring, what you do step by step
-- A **real example** (without naming the client) - "I recently inspected
+- A **real example** (without naming the client) — "I recently inspected
   a school playground with 12 pieces of equipment and found..."
-- More detail about **why this matters** - what can go wrong if you
-  don't get an inspection, what has happened at sites that weren't
-  inspected properly
-- Information about **what the report looks like** - how long it is,
+- Information about **what the report looks like** — how long it is,
   what's in it, how quickly they get it
 
-Aim for at least 800-1,000 words per service page.
+These personal details make the content unique and more useful than
+anything your competitors can write.
 
 ### 5. Create pages for the areas you cover
 
@@ -182,20 +179,11 @@ potential customers.
 - Photos of different types of equipment you inspect
 - A photo of yourself (people hire people, not websites)
 
-### 7. Add descriptions to your images (alt text)
+### ~~7. Add descriptions to your images (alt text)~~ DONE
 
-Google can't "see" photos the way we can. It relies on a text
-description attached to each image (called "alt text") to understand
-what the photo shows. Your images don't have these descriptions yet.
-
-**What to do:** Your website system has a place to add alt text to
-images. Each image needs a short description like:
-
-- "Inspector checking soft play equipment padding at an indoor play
-  centre"
-- "Outdoor playground with swings and climbing frame during annual
-  safety inspection"
-- "Playground inspection report with risk ratings"
+Alt text has been added to all three images on the site. If you add
+new photos in the future, make sure to add a short description for
+each one too.
 
 ### 8. Add customer quotes to your website
 
@@ -230,8 +218,7 @@ business.
 - Bark.com
 - Checkatrade (this one costs money but is well known)
 - Your local Lancashire business directory
-- Any trade associations you belong to (RPII has a register - make sure
-  you're on it)
+- Any trade associations you belong to
 
 Make sure your business name, address, and phone number are written
 **exactly the same** on every site.
@@ -272,18 +259,14 @@ Making it very easy to call you means more enquiries.
 - On a mobile phone, it should be a button people can tap to call you
   directly
 
-### 12. Fill in your full business details in the website settings
+### ~~12. Fill in your full business details in the website settings~~ PARTLY DONE
 
-Your website has a settings area for your full business details
-(address, founding date, etc.) that helps Google understand your
-business. Some of these are currently blank.
+The founding date (2017) and phone number have been filled in. The
+only thing still missing is:
 
-**What to do:** Fill in:
-
-- Your founding date (the year you started doing inspections)
-- Your full street address (if you're comfortable sharing it)
-- ~~Double-check the phone number matches everywhere~~ DONE - the phone
-  number has been fixed so it's now 07752 805 573 everywhere
+- Your full street address (if you're comfortable sharing it — this
+  helps Google show you in local search results, but it's fine to leave
+  it as just "Chorley" if you prefer)
 
 ### 13. Set up a Facebook page
 
@@ -305,19 +288,17 @@ people another way to find you.
 ### 14. Add a page about yourself with your qualifications
 
 Your homepage mentions your background briefly, but a dedicated "About"
-page where you go into more detail about your qualifications, your RPII
-registration, your engineering background, and why you started the
-business would help build trust. Your competitors emphasise their
-qualifications heavily.
+page where you go into more detail about your qualifications, your
+engineering background, and why you started the business would help
+build trust. Your competitors emphasise their qualifications heavily.
 
 **What to do:** Write a page that covers:
 
 - Your engineering background (25 years - this is impressive, talk about
   it more)
 - When and why you got into playground inspection
-- Your RPII registration and what that means
 - Your PIPA registration for inflatables
-- Any other training or qualifications
+- Any other training or qualifications you hold
 - A photo of yourself
 
 ### 15. Add your areas to Google Business Profile as service areas
@@ -348,20 +329,16 @@ you'll rank.
   if they'd link to you as a recommended inspector
 - Your local Chamber of Commerce website
 
-### 17. Make your page titles more search-friendly
+### ~~17. Make your page titles more search-friendly~~ DONE
 
-Your page titles are decent but could include more of the words people
-actually search for. For example, people search for "playground
-inspection" more than "outdoor annual inspection."
+Page titles have been updated to use the words people actually search
+for:
 
-**Suggestions:**
-
-- Annual Inspection page: change title to include "Playground Inspection"
-  more prominently
-- Indoor Play page: make sure "soft play inspection" appears early in
-  the title (people search for "soft play inspection" a lot)
-- Inflatable page: include "bouncy castle inspection" in the title
-  (that's what most people call them)
+- Annual Inspection: now "Playground Annual Inspection | North West UK"
+- Indoor Play: now "Soft Play Centre Inspection | North West UK"
+- Inflatables: now "Bouncy Castle & Inflatable Inspection | PIPA"
+- Operational: now "Playground Operational Inspection | North West"
+- Risk Assessments: now "Playground Risk Assessment | North West UK"
 
 ### 18. Write content about the types of customers you help
 
@@ -423,5 +400,8 @@ The businesses ranking above you right now aren't necessarily better
 at inspections. They've just done more of the things Google looks for
 when deciding who to show first.
 
-**Start with jobs 1 to 5.** These will make the biggest difference.
+Jobs 3, 4, 7, 12, and 17 have already been done (see "Already done"
+section above). **The most important remaining jobs are 1, 2, and 5** —
+set up your Google Business Profile, start getting reviews, and create
+location pages. These will make the biggest difference to getting found.
 The rest can be done over time whenever you get a chance.
