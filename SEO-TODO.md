@@ -226,6 +226,7 @@ qualifications heavily.
   about it more)
 - When and why you got into playground inspection
 - Your RPII registration as an Inflatable Annual Inspector (AI0138)
+- Your PIPA accredited trainer status
 - Any other training or qualifications you hold
 - A photo of yourself
 
