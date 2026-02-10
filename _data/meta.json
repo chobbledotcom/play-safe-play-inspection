@@ -10,10 +10,10 @@
 			}
 		],
 		"address": {
-			"streetAddress": "",
+			"streetAddress": "Highfield Road South",
 			"addressLocality": "Chorley",
 			"addressRegion": "Lancashire",
-			"postalCode": "PR7",
+			"postalCode": "PR7 1RH",
 			"addressCountry": "GB"
 		},
 		"contactPoint": [

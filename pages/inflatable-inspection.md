@@ -36,7 +36,7 @@ I can test your inflatables through two routes:
 - **PIPA scheme** – the industry standard, recognised by HSE and councils. PIPA stands for the Professional Inflatable Play Association. When an inflatable passes a PIPA test, it receives a numbered tag that is logged on a public database and can be verified by anyone. PIPA is one of two schemes the HSE recognises for inflatable safety inspections.
 - **In-house test and certificate** – also assessed against BS EN 14960. This is used for equipment that falls outside the scope of PIPA or where an in-house certificate is preferred.
 
-Both are accepted by insurers and local authorities. I'm a PIPA-registered Inflatable Annual Inspector.
+Both are accepted by insurers and local authorities. I'm an [RPII-registered Inflatable Annual Inspector](https://www.playinspectors.com/inspector/?i=6339) (registration AI0138) and PIPA-registered.
 
 ## What Gets Checked
 
