@@ -19,8 +19,16 @@ blocks:
       - value: "100%"
         label: "Independent"
   - type: section-header
-    title: "What I Do"
-    subtitle: "Inspections for indoor soft play centres and outdoor playgrounds across the North West"
+    title: "About Gary Spencer Bonehill"
+    subtitle: "Independent play inspector"
+    align: "center"
+  - type: markdown
+    content: |
+      I'm Gary Spencer Bonehill, a qualified play inspector based in Chorley, Lancashire. I inspect indoor play areas and outdoor playgrounds for local authorities, schools, holiday parks, and play centres.
+
+      I've been doing this for 9 years now. Before that I spent 25 years as a mechanical engineer, which is useful when checking equipment for structural issues and wear.
+
+      It's just me running this. When you book an inspection, you deal with me directly. No call centres, no being passed around.
   - type: image-cards
     image_aspect_ratio: "4/3"
     items:
@@ -36,17 +44,6 @@ blocks:
         title: "Risk Assessments"
         description: "Risk assessments for indoor and outdoor play areas, with hazard identification and recommendations."
         link: "/risk-overview/"
-  - type: section-header
-    title: "About Gary Spencer Bonehill"
-    subtitle: "Independent play inspector"
-    align: "left"
-  - type: markdown
-    content: |
-      I'm Gary Spencer Bonehill, a qualified play inspector based in Chorley, Lancashire. I inspect indoor play areas and outdoor playgrounds for local authorities, schools, holiday parks, and play centres.
-
-      I've been doing this for 9 years now. Before that I spent 25 years as a mechanical engineer, which is useful when checking equipment for structural issues and wear.
-
-      It's just me running this. When you book an inspection, you deal with me directly. No call centres, no being passed around.
   - type: section-header
     title: "The Standards"
     subtitle: "British and European safety requirements"
