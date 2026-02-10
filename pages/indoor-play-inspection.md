@@ -49,6 +49,6 @@ I provide risk assessments for indoor play facilities. They're useful for your o
 
 ## Who I Work With
 
-I work with play centres, leisure centres, holiday parks, pubs with play areas, restaurants with soft play, and nurseries – anywhere with indoor play equipment that needs checking.
+I work with play centres, leisure centres, holiday parks, pubs with play areas, restaurants with soft play, and nurseries – anywhere with indoor play equipment that needs checking. I'm based in [Chorley, Lancashire](https://maps.app.goo.gl/6hp4yjVUpcHvJiGVA) and cover the whole North West.
 
 [Get in touch](/contact/) to arrange an inspection.

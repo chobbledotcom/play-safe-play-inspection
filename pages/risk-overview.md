@@ -38,6 +38,6 @@ I'll inspect the equipment, review maintenance records, and provide a report set
 
 ## After an Incident
 
-If something's happened at your site and you're not sure what to do next, give me a ring. I can inspect the equipment, advise whether it should be taken out of use, and help you document everything while it's fresh. Getting this right early makes a difference if there's a claim later.
+If something's happened at your site and you're not sure what to do next, give me a ring. I'm based in [Chorley, Lancashire](https://maps.app.goo.gl/6hp4yjVUpcHvJiGVA) and cover the whole North West. I can inspect the equipment, advise whether it should be taken out of use, and help you document everything while it's fresh. Getting this right early makes a difference if there's a claim later.
 
 [Get in touch](/contact/) to discuss your situation.

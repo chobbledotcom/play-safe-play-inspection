@@ -29,4 +29,4 @@ Both are accepted by insurers and local authorities. I'm a PIPA-registered Infla
 
 ## Who This Is For
 
-Hire companies, leisure centres, holiday parks, schools, and anyone else with inflatables that need their annual test. If you're in the North West, [get in touch](/contact/).
+Hire companies, leisure centres, holiday parks, schools, and anyone else with inflatables that need their annual test. I'm based in [Chorley](https://maps.app.goo.gl/6hp4yjVUpcHvJiGVA) and cover the North West. [Get in touch](/contact/) to book.

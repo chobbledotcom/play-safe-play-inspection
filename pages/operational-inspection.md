@@ -48,4 +48,4 @@ It also saves money in the long run. Catching a worn swing seat early is cheaper
 
 I can set up a regular schedule – same day each month or quarter – so you don't have to think about it. Some councils and housing associations I work with have been on the same schedule for years.
 
-[Get in touch](/contact/) to discuss what makes sense for your site.
+I'm based in [Chorley](https://maps.app.goo.gl/6hp4yjVUpcHvJiGVA) and cover the whole North West. [Get in touch](/contact/) to discuss what makes sense for your site.

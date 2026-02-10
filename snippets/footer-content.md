@@ -5,6 +5,6 @@
   <div class="footer-contact">
     <p><strong>Phone:</strong> 07752 805 573</p>
     <p><strong>Email:</strong> <a href="mailto:info@playsafeplayinspection.co.uk">info@playsafeplayinspection.co.uk</a></p>
-    <p><strong>Based:</strong> Chorley, Lancashire</p>
+    <p><strong>Based:</strong> <a href="https://maps.app.goo.gl/6hp4yjVUpcHvJiGVA">Chorley, Lancashire</a></p>
   </div>
 </div>
