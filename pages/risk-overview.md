@@ -1,9 +1,16 @@
 ---
-meta_title: "Play Area Risk Assessments | Insurance Claims Support | North West"
-meta_description: "Risk assessments for indoor and outdoor play areas. Support for insurance claims, loss adjusters, and incident investigations."
+meta_title: "Playground Risk Assessment | North West UK"
+meta_description: "Play area risk assessments for indoor and outdoor sites. Insurance claims support, loss adjusters, and incident investigations across the North West."
 eleventyNavigation:
   key: Risk Assessments
   order: 5
+faqs:
+  - question: "Do I need a risk assessment for my playground?"
+    answer: "Yes. Under the Management of Health and Safety at Work Regulations 1999, every owner or manager of a playground has a legal duty to carry out a risk assessment. This applies to all types of play area — indoor and outdoor, public and private. A risk assessment should identify potential hazards and set out measures to control them."
+  - question: "What is the difference between an inspection and a risk assessment?"
+    answer: "An inspection examines the physical condition of equipment right now — what is worn, broken, or not meeting standards. A risk assessment looks at what could go wrong — evaluating the likelihood and severity of hazardous events and identifying what should be done to reduce the risk. Both are important. Inspections are a snapshot of condition; risk assessments are about prevention and planning."
+  - question: "Do insurers require a risk assessment?"
+    answer: "Many do, yes. Insurance policies frequently require risk assessment documentation as a condition of cover. Without them, claims may be invalidated, leaving you exposed to significant financial liability. Having a current risk assessment and regular inspection records can also help reduce your insurance premiums."
 ---
 
 # Risk Assessments & Insurance Support

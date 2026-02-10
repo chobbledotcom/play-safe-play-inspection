@@ -1,9 +1,16 @@
 ---
-meta_title: "Operational Playground Inspections | BS EN 1176-7 | North West"
-meta_description: "Operational inspections for playgrounds as recommended by BS EN 1176-7. Monthly or quarterly checks between annual inspections."
+meta_title: "Playground Operational Inspection | North West"
+meta_description: "Monthly and quarterly playground inspections as recommended by BS EN 1176-7. Regular checks between annual inspections across the North West."
 eleventyNavigation:
   key: Operational Inspection
   order: 4
+faqs:
+  - question: "How often should operational inspections be done?"
+    answer: "BS EN 1176-7 recommends operational inspections every one to three months, depending on how busy the site is and the condition of the equipment. Monthly checks are sensible for high-traffic public parks and school playgrounds. Quarterly checks may be enough for quieter, lower-use sites. The frequency should be based on your own risk assessment."
+  - question: "Can our own staff do operational inspections?"
+    answer: "Yes, if they are properly trained. BS EN 1176-7 says operational inspections should be carried out by someone with appropriate training. Some organisations train their own grounds or maintenance staff. Alternatively, you can have an external specialist do them on a regular schedule."
+  - question: "What is the difference between operational and annual inspections?"
+    answer: "Operational inspections happen every one to three months and focus on things that change — wear and tear, loose fixings, vandalism, surface condition, and moving parts. Annual inspections happen once a year and are the most comprehensive check, covering structural integrity, full standards compliance, surfacing adequacy, and a complete risk assessment. The annual inspection must be done by an independent, qualified inspector."
 ---
 
 # Operational Inspections

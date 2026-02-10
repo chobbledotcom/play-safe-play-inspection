@@ -1,0 +1,16 @@
+{
+	"images": [
+		{
+			"path": "/images/soft-play-centre.png",
+			"alt": "Indoor soft play centre with colourful padded play equipment and slides"
+		},
+		{
+			"path": "/images/outdoor-playground.png",
+			"alt": "Outdoor playground with swings and climbing frame at a park"
+		},
+		{
+			"path": "/images/clipboard.png",
+			"alt": "Clipboard with a playground safety inspection checklist"
+		}
+	]
+}

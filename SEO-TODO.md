@@ -2,9 +2,9 @@
 
 ## What I did
 
-I looked at your website and compared it to the businesses that currently
-show up when someone searches for "playground inspection" or "indoor play
-centre inspection" on Google.
+I looked at your website and compared it to the businesses that
+currently show up when someone searches for "playground inspection" or
+"indoor play centre inspection" on Google.
 
 Your main competitors online are:
 
@@ -12,8 +12,7 @@ Your main competitors online are:
   very strong website with blog, testimonials, training courses, and
   location pages
 - **Playground Inspections UK** (playgroundinspections.uk) - has 25
-  separate pages for different areas of the UK (Glasgow, Kent, Hampshire
-  etc)
+  separate pages for different areas of the UK
 - **Safeplay** (safeplay.co.uk) - London & South East focused, strong
   on testimonials and qualifications
 - **ESP Play** (espplay.co.uk) - has inspection services plus training
@@ -24,116 +23,73 @@ Your website is well written and professional. The content is good
 quality. But compared to these competitors, there are some important
 things missing that Google looks for when deciding who to show first.
 
-Here are 20 things you can do, in order of importance. I've tried to
-explain each one simply.
+---
+
+## Already done
+
+These things have already been sorted:
+
+- **Google Business Profile set up** - you're now visible on Google
+  Maps when people search locally.
+- **Phone number fixed** - the website settings had a wrong phone
+  number. It's now 07752 805 573 everywhere (contact page, footer,
+  and the behind-the-scenes settings that Google reads).
+- **Full address added** - your address (Highfield Road South, Chorley,
+  PR7 1RH) is now in the behind-the-scenes business data so Google
+  knows exactly where you are.
+- **Google Maps link added across the site** - your Google Maps listing
+  now links from the contact page, the footer on every page, the
+  homepage, and at the bottom of every service page.
+- **FAQs added to all five service pages** - 23 questions and answers
+  based on official sources (RoSPA, HSE, BSI, RPII). These cover the
+  most common things people search for: "how often does a playground
+  need inspecting", "is a playground inspection a legal requirement",
+  "what is RPII", "do soft play centres need an inspection", "do I need
+  a risk assessment for my playground", and many more.
+- **Page titles improved for search** - changed to use the words people
+  actually search for. "Inflatable Inspection" is now "Bouncy Castle &
+  Inflatable Inspection", the indoor play page now leads with "Soft Play
+  Centre Inspection", etc.
+- **Image alt text added** - all three images now have descriptions
+  that tell Google what the photos show.
+- **Founding date added** - 2017 is now in the business data.
+- **Page content expanded** - the annual inspection, indoor play, and
+  inflatable pages now have significantly more detail about legal
+  requirements, what gets checked, and what the standards say.
 
 ---
 
-## The jobs (in priority order)
+## What's left for you to do (in priority order)
 
-### 1. Set up your Google Business Profile (free, very important)
-
-This is the single most important thing you can do. When someone
-searches "playground inspection near me" or "playground inspection
-Chorley", Google shows a map with local businesses on it. If you don't
-have a Google Business Profile, you won't appear there at all.
-
-**What to do:**
-
-- Go to google.com/business and sign in with a Google account
-- Add your business name: "Play Safe Play Inspections"
-- Add your address in Chorley (even if you work from home, you can hide
-  the street address and just show the area)
-- Add your phone number and website address
-- Choose your business category - try "Playground Equipment Inspector"
-  or "Safety Consultant"
-- Add your opening hours
-- Add a description of what you do (mention playground inspection, soft
-  play inspection, North West, Lancashire, the standards you work to)
-- Add photos of you at work, your inspection reports, playgrounds you've
-  inspected
-
-### 2. Ask happy customers to leave you a Google review
+### 1. Ask happy customers to leave you a Google review
 
 Google reviews are one of the biggest things that affect where you
 show up in search results. Your competitors have reviews and you don't
 yet. Even 5-10 good reviews would make a big difference.
 
-**What to do:**
+**What to do:** After each job, send the customer a text or email
+saying something like: "Thanks for using Play Safe. If you were happy
+with the inspection, I'd really appreciate a quick Google review - it
+helps other people find me." Then include your Google review link (you
+get this from your Google Business Profile).
 
-- After each job, send the customer a text or email saying something
-  like: "Thanks for using Play Safe. If you were happy with the
-  inspection, I'd really appreciate a quick Google review - it helps
-  other people find me." Then include your Google review link (you get
-  this from your Google Business Profile)
-- Don't be shy about asking - most people are happy to help, they just
-  don't think of it
+Don't be shy about asking - most people are happy to help, they just
+don't think of it.
 
-### 3. Add answers to common questions on each page (FAQs)
+### 2. Add your areas to Google Business Profile as service areas
 
-Your website already has the ability to add "Frequently Asked Questions"
-to each page - it's just not being used yet. Google loves FAQ sections
-because they match exactly what people type into search. When someone
-searches "how often does a playground need inspecting?" and your page
-has that exact question answered, Google is much more likely to show
-your page.
+In your Google Business Profile, go to the "Service areas" section and
+add: Lancashire, Greater Manchester, Merseyside, Cheshire, Cumbria.
+This helps you show up when people in those areas search for playground
+inspections.
 
-**What to do:** Add 3-5 questions and answers to each of your main
-pages. Here are some suggestions:
-
-**For the Annual Inspection page:**
-- "How often does a playground need a full inspection?" - At least once
-  a year, as set out in BS EN 1176-7
-- "Who can carry out an annual playground inspection?" - It must be done
-  by a qualified inspector
-- "What happens if my playground fails the inspection?" - You get a
-  report listing what needs fixing, with risk ratings so you know what's
-  most urgent
-- "How much does a playground inspection cost?" - It depends on the
-  size of the site - get in touch for a quote
-
-**For the Indoor Play Inspection page:**
-- "Do soft play centres need an annual inspection?" - Yes, BS EN
-  1176-10 covers fully enclosed play equipment
-- "What does an indoor play inspection check?" - Everything from
-  padding condition to escape routes to entrapment hazards
-- "Can you inspect during opening hours?" - Get in touch to discuss
-  what works for your site
-
-**For the other pages:** Think about the questions your customers
-actually ask you on the phone, and write those down with your answers.
-
-### 4. Write more on each page (your pages are quite short)
-
-Your competitors' pages have 1,000-3,000 words on them. Your pages
-have about 150-450 words each. Google tends to prefer pages with more
-detailed, useful content because it sees them as more helpful to the
-person searching.
-
-This doesn't mean waffling - it means going into more detail about what
-you actually do.
-
-**What to do:** On each service page, try adding:
-
-- A section about **what happens on the day** - what time you arrive,
-  how long it takes, what equipment you bring, what you do step by step
-- A **real example** (without naming the client) - "I recently inspected
-  a school playground with 12 pieces of equipment and found..."
-- More detail about **why this matters** - what can go wrong if you
-  don't get an inspection, what has happened at sites that weren't
-  inspected properly
-- Information about **what the report looks like** - how long it is,
-  what's in it, how quickly they get it
-
-Aim for at least 800-1,000 words per service page.
-
-### 5. Create pages for the areas you cover
+### 3. Create pages for the areas you cover
 
 One of your biggest competitors (playgroundinspections.uk) has 25
-separate pages for different locations. Another (soft-play-equipment.co.uk)
-has over 50. This is because when someone searches "playground inspection
-Manchester" or "soft play inspection Lancashire", Google looks for pages
-that mention those specific places.
+separate pages for different locations. Another has over 50. This is
+because when someone searches "playground inspection Manchester" or
+"soft play inspection Lancashire", Google looks for pages that mention
+those specific places.
 
 **What to do:** Create a page for each main area you cover:
 
@@ -151,7 +107,7 @@ and any local knowledge you have. Don't just copy the same text and
 change the place name - Google can tell if you do that and it won't
 help.
 
-### 6. Add your real photos to the website
+### 4. Add your real photos to the website
 
 Right now the site uses stock-looking images. If you have photos from
 actual inspections you've done (or can take some on your next few jobs),
@@ -166,26 +122,10 @@ potential customers.
 - Photos of different types of equipment you inspect
 - A photo of yourself (people hire people, not websites)
 
-### 7. Add descriptions to your images (alt text)
-
-Google can't "see" photos the way we can. It relies on a text
-description attached to each image (called "alt text") to understand
-what the photo shows. Your images don't have these descriptions yet.
-
-**What to do:** Your website system has a place to add alt text to
-images. Each image needs a short description like:
-
-- "Inspector checking soft play equipment padding at an indoor play
-  centre"
-- "Outdoor playground with swings and climbing frame during annual
-  safety inspection"
-- "Playground inspection report with risk ratings"
-
-### 8. Add customer quotes to your website
+### 5. Add customer quotes to your website
 
 Your competitors display quotes from happy customers on their websites.
-The Play Inspection Company shows quotes from councils and Forestry
-England. This builds trust with new visitors.
+This builds trust with new visitors.
 
 Your website already has a "reviews" section built in - it's just empty.
 
@@ -194,11 +134,11 @@ Your website already has a "reviews" section built in - it's just empty.
 - Ask 3-5 of your best customers if you can use a quote from them on
   your website
 - Even short ones work well: "Gary is thorough, professional, and his
-  reports are clear and useful" - Head Teacher, St Mary's Primary School
-- If you start getting Google reviews (from job 2), those can go on the
+  reports are clear and useful" - Head Teacher, St Mary's Primary
+- If you start getting Google reviews (from job 1), those can go on the
   website too
 
-### 9. Get your business listed in online directories
+### 6. Get your business listed in online directories
 
 Google trusts businesses more when it sees the same name, address, and
 phone number appearing on other trusted websites. This is called
@@ -214,22 +154,22 @@ business.
 - Bark.com
 - Checkatrade (this one costs money but is well known)
 - Your local Lancashire business directory
-- Any trade associations you belong to (RPII has a register - make sure
-  you're on it)
 
+You're already listed on the RPII register as an Inflatable Annual
+Inspector (registration AI0138 at playinspectors.com) - that's good.
 Make sure your business name, address, and phone number are written
 **exactly the same** on every site.
 
-### 10. Start a simple blog / news section
+### 7. Start a simple blog / news section
 
 Your competitors who rank well have a news section where they
 occasionally write about things happening in the industry. Your
 website already supports a news section - it just hasn't been set up
 yet.
 
-You don't need to write often. Even one post every month or two
-would help. The point is to have pages on your site that answer the
-questions people are searching for.
+You don't need to write often. Even one post every month or two would
+help. The point is to have pages on your site that answer the questions
+people are searching for.
 
 **Ideas for posts:**
 
@@ -244,37 +184,25 @@ questions people are searching for.
 Each post only needs to be about 500-800 words. Write it how you'd
 explain it to a customer on the phone.
 
-### 11. Put your phone number bigger on every page
+### 8. Add more personal detail to your service pages
 
-Your phone number is in the footer and on the contact page, but
-someone visiting your site on their phone might not scroll that far.
-Making it very easy to call you means more enquiries.
+The pages have been expanded with factual detail about the standards
+and legal requirements, but only you can add the personal stuff that
+makes your site different from everyone else's:
 
-**What to do:**
+- **What happens on the day** - what time you arrive, how long it
+  takes, what equipment you bring, what you do step by step
+- **A real example** (without naming the client) - "I recently
+  inspected a school playground with 12 pieces of equipment and
+  found..."
+- **What the report looks like** - how long it is, what's in it, how
+  quickly they get it
 
-- Make sure your phone number appears near the top of every page
-- On a mobile phone, it should be a button people can tap to call you
-  directly
+### 9. Set up a Facebook page
 
-### 12. Fill in your full business details in the website settings
-
-Your website has a settings area for your full business details
-(address, founding date, etc.) that helps Google understand your
-business. Some of these are currently blank.
-
-**What to do:** Fill in:
-
-- Your founding date (the year you started doing inspections)
-- Your full street address (if you're comfortable sharing it)
-- ~~Double-check the phone number matches everywhere~~ DONE - the phone
-  number has been fixed so it's now 07752 805 573 everywhere
-
-### 13. Set up a Facebook page
-
-You don't need to be posting every day or anything like that. But
-having a Facebook business page that links to your website is another
-signal to Google that you're a real, active business. It also gives
-people another way to find you.
+You don't need to be posting every day. But having a Facebook business
+page that links to your website is another signal to Google that you're
+a real, active business.
 
 **What to do:**
 
@@ -286,37 +214,23 @@ people another way to find you.
 - Link to it from your website (your website already has a place for a
   Facebook link)
 
-### 14. Add a page about yourself with your qualifications
+### 10. Add a page about yourself with your qualifications
 
 Your homepage mentions your background briefly, but a dedicated "About"
-page where you go into more detail about your qualifications, your RPII
-registration, your engineering background, and why you started the
-business would help build trust. Your competitors emphasise their
+page would help build trust. Your competitors emphasise their
 qualifications heavily.
 
 **What to do:** Write a page that covers:
 
-- Your engineering background (25 years - this is impressive, talk about
-  it more)
+- Your engineering background (25 years - this is impressive, talk
+  about it more)
 - When and why you got into playground inspection
-- Your RPII registration and what that means
-- Your PIPA registration for inflatables
-- Any other training or qualifications
+- Your RPII registration as an Inflatable Annual Inspector (AI0138)
+- Your PIPA accredited trainer status
+- Any other training or qualifications you hold
 - A photo of yourself
 
-### 15. Add your areas to Google Business Profile as service areas
-
-This is an extra step for your Google Business Profile (from job 1).
-You can tell Google all the areas you travel to for work.
-
-**What to do:**
-
-- In your Google Business Profile, go to the "Service areas" section
-- Add: Lancashire, Greater Manchester, Merseyside, Cheshire, Cumbria
-- This helps you show up when people in those areas search for
-  playground inspections
-
-### 16. Ask related businesses to link to your website
+### 11. Ask related businesses to link to your website
 
 When other websites link to yours, Google sees this as a vote of
 confidence. The more trusted websites that link to you, the higher
@@ -332,59 +246,24 @@ you'll rank.
   if they'd link to you as a recommended inspector
 - Your local Chamber of Commerce website
 
-### 17. Make your page titles more search-friendly
+### 12. Write content about the types of customers you help
 
-Your page titles are decent but could include more of the words people
-actually search for. For example, people search for "playground
-inspection" more than "outdoor annual inspection."
-
-**Suggestions:**
-
-- Annual Inspection page: change title to include "Playground Inspection"
-  more prominently
-- Indoor Play page: make sure "soft play inspection" appears early in
-  the title (people search for "soft play inspection" a lot)
-- Inflatable page: include "bouncy castle inspection" in the title
-  (that's what most people call them)
-
-### 18. Write content about the types of customers you help
-
-Your competitors have content aimed at specific types of customers -
-schools, councils, holiday parks, pubs. You mention these groups briefly
-but dedicated content for each type of customer would help.
+Your competitors have content aimed at specific types of customers.
+Dedicated content for each type would help you show up in more
+searches.
 
 **What to do:** Either add sections to existing pages or create new
 short pages for:
 
-- "Playground inspections for schools" - what schools specifically need
-  to know
-- "Playground inspections for councils" - how you work with local
-  authorities
-- "Soft play inspections for leisure centres" - what leisure centre
-  managers need
-- "Play area inspections for pubs and restaurants" - the legal
-  requirements for commercial play areas
+- "Playground inspections for schools"
+- "Playground inspections for councils"
+- "Soft play inspections for leisure centres"
+- "Play area inspections for pubs and restaurants"
 
-### 19. Add a "What to expect" page
-
-Many people searching for playground inspection don't know what's
-involved. A simple page explaining "What happens during a playground
-inspection" step by step would attract people who are just starting
-to look into this.
-
-**What to do:** Write a page covering:
-
-- What happens before the visit (booking, what info you need)
-- What happens on the day (how long it takes, what you check)
-- What the report looks like
-- What happens after (fixing issues, re-inspections)
-- How often inspections are needed going forward
-
-### 20. Check your website works well on phones
+### 13. Check your website works well on phones
 
 More than half of Google searches happen on mobile phones. If your
-website is hard to use on a phone - text too small, buttons hard to
-tap, pages slow to load - Google will rank you lower.
+website is hard to use on a phone, Google will rank you lower.
 
 **What to do:**
 
@@ -403,9 +282,10 @@ companies. People searching locally often prefer to hire a local
 independent inspector rather than a big company - but they can only
 hire you if they can find you on Google.
 
-The businesses ranking above you right now aren't necessarily better
-at inspections. They've just done more of the things Google looks for
-when deciding who to show first.
+The businesses ranking above you right now aren't necessarily better at
+inspections. They've just done more of the things Google looks for when
+deciding who to show first.
 
-**Start with jobs 1 to 5.** These will make the biggest difference.
-The rest can be done over time whenever you get a chance.
+**Start with jobs 1 to 3.** Getting reviews, adding your service areas,
+and creating location pages will make the biggest difference. The rest
+can be done over time whenever you get a chance.
