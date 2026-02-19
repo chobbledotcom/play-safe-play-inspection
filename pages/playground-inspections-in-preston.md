@@ -4,9 +4,6 @@ meta_description: "Independent playground inspector serving Preston. Annual and 
 permalink: "/playground-inspections-in-preston/"
 layout: "page.html"
 subtitle: "Independent playground inspector serving Preston"
-eleventyNavigation:
-  key: Preston
-  parent: Areas
 blocks:
   - type: stats
     items:

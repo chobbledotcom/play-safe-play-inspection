@@ -4,9 +4,6 @@ meta_description: "Independent playground inspector serving Bolton. Annual and o
 permalink: "/playground-inspections-in-bolton/"
 layout: "page.html"
 subtitle: "Independent playground inspector serving Bolton"
-eleventyNavigation:
-  key: Bolton
-  parent: Areas
 blocks:
   - type: stats
     items:

@@ -4,9 +4,6 @@ meta_description: "Independent playground inspector serving Blackpool. Annual an
 permalink: "/playground-inspections-in-blackpool/"
 layout: "page.html"
 subtitle: "Independent playground inspector serving Blackpool"
-eleventyNavigation:
-  key: Blackpool
-  parent: Areas
 blocks:
   - type: stats
     items:

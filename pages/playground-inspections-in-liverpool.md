@@ -4,9 +4,6 @@ meta_description: "Independent playground inspector serving Liverpool and Mersey
 permalink: "/playground-inspections-in-liverpool/"
 layout: "page.html"
 subtitle: "Independent playground inspector serving Liverpool"
-eleventyNavigation:
-  key: Liverpool
-  parent: Areas
 blocks:
   - type: stats
     items:

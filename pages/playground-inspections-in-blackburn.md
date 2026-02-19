@@ -4,9 +4,6 @@ meta_description: "Independent playground inspector serving Blackburn. Annual an
 permalink: "/playground-inspections-in-blackburn/"
 layout: "page.html"
 subtitle: "Independent playground inspector serving Blackburn"
-eleventyNavigation:
-  key: Blackburn
-  parent: Areas
 blocks:
   - type: stats
     items:

@@ -4,9 +4,6 @@ meta_description: "Independent playground inspector serving Manchester and Great
 permalink: "/playground-inspections-in-manchester/"
 layout: "page.html"
 subtitle: "Independent playground inspector serving Manchester"
-eleventyNavigation:
-  key: Manchester
-  parent: Areas
 blocks:
   - type: stats
     items:
