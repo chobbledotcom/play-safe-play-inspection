@@ -249,10 +249,12 @@ h2::after {
 }
 
 // Stats - orange values
-.stat strong,
-.stats strong {
-  color: var(--color-accent);
-  font-size: 2rem;
+.design-system {
+  .stat dd strong,
+  .stats dd strong {
+    color: var(--color-accent);
+    font-size: 2rem;
+  }
 }
 
 // Icons - orange
