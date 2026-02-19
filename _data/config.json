@@ -3,5 +3,6 @@
 	"chobble_link": "https://chobble.com/examples/play-safe-play-inspection/",
 	"botpoison_public_key": "pk_bbb182a9-1ff3-4d9a-839c-06e45f41a6e6",
 	"enable_theme_switcher": false,
+	"clicky_navigation": false,
 	"products": {}
 }
