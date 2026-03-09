@@ -41,9 +41,6 @@ blocks:
         title: "Blackburn"
         description: "About 10 miles east of Chorley. Around 20 minutes by car."
         link: "/playground-inspections-in-blackburn/"
-  - type: image-cards
-    image_aspect_ratio: "4/3"
-    items:
       - image: "/images/outdoor-playground.png"
         title: "Blackpool"
         description: "About 30 miles west of Chorley. Around 40 minutes by car."
@@ -52,6 +49,9 @@ blocks:
         title: "Manchester"
         description: "About 25 miles south of Chorley. Around 35 minutes by car."
         link: "/playground-inspections-in-manchester/"
+  - type: image-cards
+    image_aspect_ratio: "4/3"
+    items:
       - image: "/images/outdoor-playground.png"
         title: "Liverpool"
         description: "About 30 miles south-west of Chorley. Around 45 minutes by car."
