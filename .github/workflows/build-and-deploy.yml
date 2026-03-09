@@ -91,15 +91,13 @@ jobs:
       - name: Setup Bun
         uses: oven-sh/setup-bun@v2
 
-      - name: Restore cache
+      - name: Restore image cache
         uses: actions/cache@v4
         with:
-          path: |
-            combined/node_modules
-            combined/.image-cache
-          key: ${{ runner.os }}-bun-${{ hashFiles('combined/bun.lock') }}
+          path: combined/.image-cache
+          key: ${{ runner.os }}-images-${{ hashFiles('combined/src/**/*.{jpg,jpeg,png,gif,webp,svg}') }}
           restore-keys: |
-            ${{ runner.os }}-bun-
+            ${{ runner.os }}-images-
 
       - name: Build with Bun
         run: |
