@@ -11,6 +11,30 @@
 		{
 			"path": "/images/clipboard.png",
 			"alt": "Clipboard with a playground safety inspection checklist"
+		},
+		{
+			"path": "/images/blackpool.jpg",
+			"alt": "Aerial view of Blackpool Tower and seafront under cloudy skies"
+		},
+		{
+			"path": "/images/manchester.jpg",
+			"alt": "Manchester MediaCity skyline at Salford Quays illuminated at night"
+		},
+		{
+			"path": "/images/liverpool.jpg",
+			"alt": "Liverpool Albert Dock with the Royal Liver Building in the background"
+		},
+		{
+			"path": "/images/preston.jpg",
+			"alt": "Aerial view of Preston city centre in Lancashire"
+		},
+		{
+			"path": "/images/bolton.jpg",
+			"alt": "View through woodland at Rivington Pike near Bolton, Lancashire"
+		},
+		{
+			"path": "/images/blackburn.jpg",
+			"alt": "Sheep grazing in green pasture with stone walls and rolling hills in Lancashire"
 		}
 	]
 }
