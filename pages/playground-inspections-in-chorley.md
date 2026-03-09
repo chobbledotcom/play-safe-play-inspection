@@ -21,7 +21,7 @@ blocks:
     align: "center"
   - type: markdown
     content: |
-      I'm Gary Spencer Bonehill, and I'm a playground inspector based in Chorley. Not "covering Chorley" from somewhere else — I actually live and work here. My office is on Highfield Road South, so when you book an inspection in Chorley, you're getting someone who knows the town, knows the parks, and can be on site quickly.
+      I'm Gary Spencer Bonehill, and I'm a playground inspector based in Chorley. Not "covering Chorley" from somewhere else — I actually live and work here. So when you book an inspection in Chorley, you're getting someone who knows the town, knows the parks, and can be on site quickly.
 
       Chorley has a good range of play areas across the borough — from Astley Park and Yarrow Valley through to school playgrounds in Coppull, Adlington, Euxton, and the surrounding villages. I inspect them all, both outdoor playgrounds and indoor soft play centres, to BS EN 1176 and BS EN 1177 standards.
 

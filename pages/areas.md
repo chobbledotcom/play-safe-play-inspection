@@ -24,7 +24,7 @@ blocks:
     items:
       - image: "/images/outdoor-playground.png"
         title: "Chorley"
-        description: "Our home base. Based right here on Highfield Road South."
+        description: "Our home base. We're based right here in Chorley."
         link: "/playground-inspections-in-chorley/"
       - image: "/images/outdoor-playground.png"
         title: "Preston"
