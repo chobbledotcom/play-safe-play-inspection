@@ -23,6 +23,10 @@ blocks:
     image_aspect_ratio: "4/3"
     items:
       - image: "/images/outdoor-playground.png"
+        title: "Chorley"
+        description: "Our home base. Based right here on Highfield Road South."
+        link: "/playground-inspections-in-chorley/"
+      - image: "/images/outdoor-playground.png"
         title: "Preston"
         description: "About 11 miles north of Chorley. Around 20 minutes by car."
         link: "/playground-inspections-in-preston/"
@@ -30,6 +34,9 @@ blocks:
         title: "Bolton"
         description: "About 11 miles south of Chorley. Around 20 minutes by car."
         link: "/playground-inspections-in-bolton/"
+  - type: image-cards
+    image_aspect_ratio: "4/3"
+    items:
       - image: "/images/outdoor-playground.png"
         title: "Blackburn"
         description: "About 10 miles east of Chorley. Around 20 minutes by car."
