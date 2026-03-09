@@ -22,7 +22,7 @@ blocks:
   - type: image-cards
     image_aspect_ratio: "16/9"
     items:
-      - image: "/images/outdoor-playground.png"
+      - image: "/images/chorley.jpg"
         title: "Chorley"
         description: "Our home base. We're based right here in Chorley."
         link: "/playground-inspections-in-chorley/"

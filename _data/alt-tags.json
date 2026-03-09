@@ -18,7 +18,7 @@
 		},
 		{
 			"path": "/images/manchester.jpg",
-			"alt": "Manchester MediaCity skyline at Salford Quays illuminated at night"
+			"alt": "Aerial view of Manchester city centre during the daytime"
 		},
 		{
 			"path": "/images/liverpool.jpg",
@@ -34,7 +34,11 @@
 		},
 		{
 			"path": "/images/blackburn.jpg",
-			"alt": "Sheep grazing in green pasture with stone walls and rolling hills in Lancashire"
+			"alt": "Red brick buildings and canal bridge in a Lancashire mill town"
+		},
+		{
+			"path": "/images/chorley.jpg",
+			"alt": "Rolling green moorland hills under an overcast sky in Lancashire"
 		}
 	]
 }
