@@ -16,9 +16,11 @@ blocks:
       - value: "100%"
         label: "Independent"
   - type: section-header
-    title: "Playground Inspections in Manchester"
-    subtitle: "Your independent inspector from Lancashire"
     align: "center"
+    intro: |
+      ## Playground Inspections in Manchester
+
+      Your independent inspector from Lancashire
   - type: markdown
     content: |
       I'm Gary Spencer Bonehill, and I carry out playground inspections across Manchester and Greater Manchester. I'm based in Chorley, Lancashire — about 25 miles north of Manchester city centre, which is typically 35 to 45 minutes depending on traffic via the M61 and M60.
@@ -27,8 +29,10 @@ blocks:
 
       I inspect outdoor playgrounds and indoor soft play centres to BS EN 1176 and BS EN 1177 standards.
   - type: section-header
-    title: "Why Choose an Independent Inspector in Manchester?"
-    subtitle: "What sets me apart from the competition"
+    intro: |
+      ## Why Choose an Independent Inspector in Manchester?
+
+      What sets me apart from the competition
   - type: markdown
     content: |
       Manchester has no shortage of companies offering playground inspections. The big national names are all here — Playground Safety Inspector, Certified Playground Inspections, Playground Inspector UK, The Play Inspection Company, and Sovereign Compliance. Most of these operate as networks, dispatching inspectors from around the country to cover bookings in the Manchester area.
@@ -58,7 +62,8 @@ blocks:
         description: "Risk assessments with hazard identification and recommendations."
         link: "/risk-overview/"
   - type: section-header
-    title: "Covering Greater Manchester"
+    intro: |
+      ## Covering Greater Manchester
   - type: markdown
     content: |
       I cover Manchester city centre and the wider Greater Manchester area including Salford, Stockport, Trafford, Tameside, Oldham, Rochdale, Bury, and Wigan. If you manage play equipment anywhere in Greater Manchester, [get in touch](/contact/) for a quote.

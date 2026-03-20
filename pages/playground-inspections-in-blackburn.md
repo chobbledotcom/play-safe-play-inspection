@@ -16,9 +16,11 @@ blocks:
       - value: "100%"
         label: "Independent"
   - type: section-header
-    title: "Playground Inspections in Blackburn"
-    subtitle: "Your local independent inspector"
     align: "center"
+    intro: |
+      ## Playground Inspections in Blackburn
+
+      Your local independent inspector
   - type: markdown
     content: |
       I'm Gary Spencer Bonehill, and I carry out playground inspections in Blackburn and across Blackburn with Darwen. My base in Chorley is about 10 miles from Blackburn — roughly 20 minutes along the A674. It's one of the closest areas I serve.
@@ -27,8 +29,10 @@ blocks:
 
       I inspect both outdoor playgrounds and indoor soft play centres to BS EN 1176 and BS EN 1177 standards.
   - type: section-header
-    title: "Why Choose an Independent Inspector in Blackburn?"
-    subtitle: "What sets me apart from the competition"
+    intro: |
+      ## Why Choose an Independent Inspector in Blackburn?
+
+      What sets me apart from the competition
   - type: markdown
     content: |
       When you look for playground inspections in Blackburn, you'll come across the same national companies that cover most of the UK — Playground Safety Inspector, Qualified Annual Playground Inspections, The Play Inspection Company, and Wicksteed. These are large operations that dispatch inspectors across the country.
@@ -60,7 +64,8 @@ blocks:
         description: "Risk assessments with hazard identification and recommendations."
         link: "/risk-overview/"
   - type: section-header
-    title: "Covering Blackburn with Darwen and East Lancashire"
+    intro: |
+      ## Covering Blackburn with Darwen and East Lancashire
   - type: markdown
     content: |
       I cover Blackburn town centre, Darwen, Mill Hill, Ewood, Feniscowles, and the wider Blackburn with Darwen borough. I also work across East Lancashire including Accrington and Great Harwood. [Get in touch](/contact/) for a quote.

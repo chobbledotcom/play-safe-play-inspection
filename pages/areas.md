@@ -9,9 +9,11 @@ eleventyNavigation:
   order: 7
 blocks:
   - type: section-header
-    title: "Areas We Cover"
-    subtitle: "Based in Chorley, serving the North West"
     align: "center"
+    intro: |
+      ## Areas We Cover
+
+      Based in Chorley, serving the North West
   - type: markdown
     content: |
       I'm based in [Chorley, Lancashire](https://maps.app.goo.gl/6hp4yjVUpcHvJiGVA), which puts me right in the middle of the North West. Most of the towns and cities I work in are within 30 to 45 minutes' drive.
@@ -57,8 +59,10 @@ blocks:
         description: "About 30 miles south-west of Chorley. Around 45 minutes by car."
         link: "/playground-inspections-in-liverpool/"
   - type: section-header
-    title: "Not Listed Here?"
-    subtitle: "I cover the whole North West"
+    intro: |
+      ## Not Listed Here?
+
+      I cover the whole North West
   - type: markdown
     content: |
       These are just the main areas. I also cover Wigan, Burnley, Lancaster, Warrington, St Helens, Southport, and anywhere else in Lancashire, Greater Manchester, Merseyside, Cheshire, and Cumbria. I'll travel further if needed.

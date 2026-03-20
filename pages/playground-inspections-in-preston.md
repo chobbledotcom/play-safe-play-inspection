@@ -16,9 +16,11 @@ blocks:
       - value: "100%"
         label: "Independent"
   - type: section-header
-    title: "Playground Inspections in Preston"
-    subtitle: "Your local independent inspector"
     align: "center"
+    intro: |
+      ## Playground Inspections in Preston
+
+      Your local independent inspector
   - type: markdown
     content: |
       I'm Gary Spencer Bonehill, and I carry out playground inspections in Preston and the surrounding area. I'm based in Chorley — about 11 miles south of Preston, which is around 20 minutes down the A6 or the M61. It's one of the shortest trips I do.
@@ -27,8 +29,10 @@ blocks:
 
       I inspect both outdoor playgrounds and indoor soft play centres to BS EN 1176 and BS EN 1177 standards.
   - type: section-header
-    title: "Why Choose an Independent Inspector in Preston?"
-    subtitle: "What sets me apart from the competition"
+    intro: |
+      ## Why Choose an Independent Inspector in Preston?
+
+      What sets me apart from the competition
   - type: markdown
     content: |
       If you search for playground inspections in Preston, you'll mostly find two types of result: large national companies dispatching inspectors from wherever they happen to be, and SEO-heavy websites that don't tell you much about who's actually turning up to do the work.
@@ -60,7 +64,8 @@ blocks:
         description: "Risk assessments with hazard identification and recommendations."
         link: "/risk-overview/"
   - type: section-header
-    title: "Serving Preston and Surrounding Areas"
+    intro: |
+      ## Serving Preston and Surrounding Areas
   - type: markdown
     content: |
       As well as Preston itself, I cover the surrounding areas including Fulwood, Bamber Bridge, Leyland, Penwortham, Longton, and further afield into the Ribble Valley. If you manage play equipment anywhere in the Preston area, [get in touch](/contact/) for a straightforward quote.

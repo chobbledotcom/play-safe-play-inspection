@@ -16,9 +16,11 @@ blocks:
       - value: "100%"
         label: "Independent"
   - type: section-header
-    title: "Playground Inspections in Bolton"
-    subtitle: "Your local independent inspector"
     align: "center"
+    intro: |
+      ## Playground Inspections in Bolton
+
+      Your local independent inspector
   - type: markdown
     content: |
       I'm Gary Spencer Bonehill, and I carry out playground inspections in Bolton and across the borough. My base in Chorley is about 11 miles north of Bolton — roughly 20 minutes via the M61. It's one of my closest areas.
@@ -27,8 +29,10 @@ blocks:
 
       I inspect outdoor playgrounds and indoor soft play centres to BS EN 1176 and BS EN 1177 standards.
   - type: section-header
-    title: "Why Choose an Independent Inspector in Bolton?"
-    subtitle: "What sets me apart from the competition"
+    intro: |
+      ## Why Choose an Independent Inspector in Bolton?
+
+      What sets me apart from the competition
   - type: markdown
     content: |
       Bolton falls within Greater Manchester, so it's covered by a number of large national inspection companies. Playground Safety Inspector, Certified Playground Inspections, and The Play Inspection Company all list Bolton in their service areas. These are big outfits with networks of inspectors across the country.
@@ -60,7 +64,8 @@ blocks:
         description: "Risk assessments with hazard identification and recommendations."
         link: "/risk-overview/"
   - type: section-header
-    title: "Covering Bolton and the Wider Borough"
+    intro: |
+      ## Covering Bolton and the Wider Borough
   - type: markdown
     content: |
       I cover Bolton town centre and the surrounding areas including Horwich, Farnworth, Westhoughton, Atherton, Little Lever, and Kearsley. If you're responsible for play equipment anywhere in the Bolton borough, [get in touch](/contact/) for a quote.
