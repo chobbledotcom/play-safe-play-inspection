@@ -16,9 +16,11 @@ blocks:
       - value: "100%"
         label: "Independent"
   - type: section-header
-    title: "Playground Inspections in Chorley"
-    subtitle: "Based here, not just passing through"
     align: "center"
+    intro: |
+      ## Playground Inspections in Chorley
+
+      Based here, not just passing through
   - type: markdown
     content: |
       I'm Gary Spencer Bonehill, and I'm a playground inspector based in Chorley. Not "covering Chorley" from somewhere else — I actually live and work here. So when you book an inspection in Chorley, you're getting someone who knows the town, knows the parks, and can be on site quickly.
@@ -27,8 +29,10 @@ blocks:
 
       Being local means I'm flexible. If something urgent comes up — a piece of equipment gets damaged, or you need a quick turnaround before an Ofsted visit — I can usually get to you the same day or the next.
   - type: section-header
-    title: "Why Choose a Local Independent Inspector?"
-    subtitle: "What sets me apart from the competition"
+    intro: |
+      ## Why Choose a Local Independent Inspector?
+
+      What sets me apart from the competition
   - type: markdown
     content: |
       Most playground inspection companies covering Chorley are either national firms sending inspectors from wherever they happen to be, or equipment suppliers offering inspections alongside their sales operation.
@@ -60,7 +64,8 @@ blocks:
         description: "Risk assessments with hazard identification and recommendations."
         link: "/risk-overview/"
   - type: section-header
-    title: "Serving All of Chorley Borough"
+    intro: |
+      ## Serving All of Chorley Borough
   - type: markdown
     content: |
       As well as Chorley town centre, I cover the whole borough including Coppull, Adlington, Euxton, Whittle-le-Woods, Clayton-le-Woods, Brinscall, Withnell, Heath Charnock, and Rivington. I also serve the wider North West — have a look at my [areas page](/areas/) to see where else I work.

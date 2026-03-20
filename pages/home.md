@@ -19,9 +19,11 @@ blocks:
       - value: "100%"
         label: "Independent"
   - type: section-header
-    title: "About Gary Spencer Bonehill"
-    subtitle: "Independent play inspector"
     align: "center"
+    intro: |
+      ## About Gary Spencer Bonehill
+
+      Independent play inspector
   - type: markdown
     content: |
       I'm Gary Spencer Bonehill, a qualified play inspector based in Chorley, Lancashire. I inspect indoor play areas and outdoor playgrounds for local authorities, schools, holiday parks, and play centres.
@@ -45,8 +47,10 @@ blocks:
         description: "Risk assessments for indoor and outdoor play areas, with hazard identification and recommendations."
         link: "/risk-overview/"
   - type: section-header
-    title: "The Standards"
-    subtitle: "British and European safety requirements"
+    intro: |
+      ## The Standards
+
+      British and European safety requirements
   - type: markdown
     content: |
       Play equipment safety in the UK falls under **BS EN 1176** (equipment) and **BS EN 1177** (surfacing). These aren't legally mandatory, but they're what courts, insurers, and local authorities use to judge whether you've met your duty of care.
@@ -58,8 +62,10 @@ blocks:
 
       Annual inspections need to be carried out by a qualified inspector. That's me – with 25 years of mechanical engineering experience and over 9 years inspecting play equipment.
   - type: section-header
-    title: "Coverage Area"
-    subtitle: "Based in the North West"
+    intro: |
+      ## Coverage Area
+
+      Based in the North West
   - type: markdown
     content: |
       I'm based in [Chorley, Lancashire](https://maps.app.goo.gl/6hp4yjVUpcHvJiGVA) but I cover the whole of the **North West** – Lancashire, Greater Manchester, Merseyside, Cheshire, Cumbria. I'll travel further if needed, just get in touch.

@@ -16,9 +16,11 @@ blocks:
       - value: "100%"
         label: "Independent"
   - type: section-header
-    title: "Playground Inspections in Blackpool"
-    subtitle: "Your local independent inspector"
     align: "center"
+    intro: |
+      ## Playground Inspections in Blackpool
+
+      Your local independent inspector
   - type: markdown
     content: |
       I'm Gary Spencer Bonehill, and I carry out playground inspections in Blackpool and along the Fylde Coast. I'm based in Chorley, which is about 30 miles east of Blackpool — roughly 40 minutes via the M55. It's a straightforward drive across Lancashire.
@@ -27,8 +29,10 @@ blocks:
 
       I inspect outdoor playgrounds and indoor soft play centres to BS EN 1176 and BS EN 1177 standards.
   - type: section-header
-    title: "Why Choose an Independent Inspector in Blackpool?"
-    subtitle: "What sets me apart from the competition"
+    intro: |
+      ## Why Choose an Independent Inspector in Blackpool?
+
+      What sets me apart from the competition
   - type: markdown
     content: |
       Blackpool's mix of public, school, and commercial play facilities means there's demand for inspections, but the same national companies dominate the search results — Playground Safety Inspector, Qualified Annual Playground Inspections, The Play Inspection Company, and Safeplay. These are nationwide outfits that send inspectors from wherever they happen to have availability.
@@ -60,7 +64,8 @@ blocks:
         description: "Risk assessments with hazard identification and recommendations."
         link: "/risk-overview/"
   - type: section-header
-    title: "Covering Blackpool and the Fylde Coast"
+    intro: |
+      ## Covering Blackpool and the Fylde Coast
   - type: markdown
     content: |
       I cover Blackpool, Poulton-le-Fylde, Thornton-Cleveleys, Lytham St Annes, Fleetwood, and the wider Fylde Coast. Whether it's a council park, a school playground, or a commercial indoor play centre, [get in touch](/contact/) for a quote.

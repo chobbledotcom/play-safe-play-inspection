@@ -16,9 +16,11 @@ blocks:
       - value: "100%"
         label: "Independent"
   - type: section-header
-    title: "Playground Inspections in Liverpool"
-    subtitle: "Your independent inspector from Lancashire"
     align: "center"
+    intro: |
+      ## Playground Inspections in Liverpool
+
+      Your independent inspector from Lancashire
   - type: markdown
     content: |
       I'm Gary Spencer Bonehill, and I carry out playground inspections in Liverpool and across Merseyside. I'm based in Chorley, Lancashire — about 30 miles north-east of Liverpool, which is around 45 minutes via the M6 and M58. It's a straightforward motorway run.
@@ -27,8 +29,10 @@ blocks:
 
       All inspections are carried out to BS EN 1176 and BS EN 1177 standards.
   - type: section-header
-    title: "Why Choose an Independent Inspector in Liverpool?"
-    subtitle: "What sets me apart from the competition"
+    intro: |
+      ## Why Choose an Independent Inspector in Liverpool?
+
+      What sets me apart from the competition
   - type: markdown
     content: |
       Liverpool and Merseyside are served almost entirely by national companies. The Play Inspection Company, Playground Safety Inspector, Wicksteed, idverde, Safeplay, and Sovereign Compliance all cover the area — but none of them are based locally. They operate national networks and send whoever is available.
@@ -58,7 +62,8 @@ blocks:
         description: "Risk assessments with hazard identification and recommendations."
         link: "/risk-overview/"
   - type: section-header
-    title: "Covering Liverpool and Merseyside"
+    intro: |
+      ## Covering Liverpool and Merseyside
   - type: markdown
     content: |
       I cover Liverpool city centre and the wider Merseyside area including Southport, St Helens, Knowsley, Wirral, and Sefton. Whether you're a school, a council, a housing association, or a commercial play centre, [get in touch](/contact/) for a quote.
